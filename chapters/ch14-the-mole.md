@@ -2,132 +2,144 @@
 
 The operations started failing on the third day.
 
-A supply run to a sympathetic village — intercepted. Empire forces waiting at the rendezvous with surgical precision. Three resistance fighters captured, one injured. The supplies lost.
+A supply run to a sympathetic village, intercepted. Empire forces waiting at the rendezvous with surgical precision. Three resistance fighters captured, one injured. The supplies lost.
 
-A communications relay, hidden in the mountains above Cosenza — discovered and destroyed. The demolition was targeted: the relay's exact location, its shielding frequency, the timing of its burst transmissions. Information only someone inside the network could have provided.
+A communications relay, hidden in the mountains above Cosenza, discovered and destroyed. The demolition was targeted: the relay's exact location, its shielding frequency, the timing of its burst transmissions. Information only someone inside the network could have provided.
 
-A recruitment contact in Naples — arrested at his workplace. The Empire agents knew his name, his cover identity, his resistance affiliation. They had his file. His complete file.
+A recruitment contact in Naples, arrested at his workplace. The Empire agents knew his name, his cover identity, his resistance affiliation. They had his file. His complete file.
 
 Three operations in three days. Each one compromised with a specificity that eliminated coincidence.
 
+The human cost arrived in pieces. The supply run team, two women and a man Alexander had seen sharing flatbread in the archive's upper chambers, came back as a report: captured, transported, likely en route to a processing facility. The communications relay had been Nkechi's backup system, three months of patient assembly destroyed in minutes. She received the news with a stillness that was not calm but the controlled absence of the explosion she could not afford. The recruitment contact in Naples had a daughter, eight years old, who had been with him at his workplace when the Empire agents came. Nobody knew where the daughter was now.
+
+The cell's architecture of trust, already fragile, already patched together from desperation and shared loss, cracked along every seam. People stopped sharing meals. Conversations died when certain footsteps approached. The children noticed. One of them, the smallest, started sleeping with her hand curled around Nkechi's ankle, as if the physical contact could prevent whatever invisible thing was pulling their world apart.
+
 "We have a mole," Graaf said at the emergency meeting. His voice carried the satisfaction of a man whose worst suspicions were being confirmed. He did not look at Alexander. He did not need to.
 
-The cave's main chamber was full — every resistance fighter in the cell gathered, the bioluminescent light casting green-blue shadows across thirty faces tight with fear. The fear was specific: not of the Empire, which they had feared for years, but of each other. The possibility that someone in this room — someone who shared their food, their secrets, their children's hiding places — was feeding information to the machine.
+The cave's main chamber was full, every resistance fighter in the cell gathered, the bioluminescent light casting green-blue shadows across thirty faces tight with fear. The fear was specific: not of the Empire, which they had feared for years, but of each other. The possibility that someone in this room, someone who shared their food, their secrets, their children's hiding places, was feeding information to the machine.
 
 Thirty faces looked at Alexander.
 
 He sat in his assigned space, the chalk boundary long since erased but the invisible line still observed by everyone who entered the room. His chip hummed its quiet hum. The Phase Three architecture processed thirty hostile expressions and offered tactical assessments for each one.
 
-*He didn't. Not consciously.* The thought was his own, and the distinction mattered — because the chip, as Kaito had demonstrated with the beacon episode, could act without his conscious participation. The loyalty protocol, the emergency broadcast, the automatic data transmission. The chip was part of him, but it was also part of the Empire, and the Empire's part didn't need his permission.
+*He didn't. Not consciously.* The thought was his own, and the distinction mattered, because the chip, as Kaito had demonstrated with the beacon episode, could act without his conscious participation. The loyalty protocol, the emergency broadcast, the automatic data transmission. The chip was part of him, but it was also part of the Empire, and the Empire's part didn't need his permission.
 
 "You're thinking what everyone's thinking," Alexander said. "And you might be right."
 
-Graaf's blade was in his hand. Not drawn — just present, the way a threat is present before it becomes an action. "You sat in your corner and the operations failed. Your chip broadcasted our location once already. Why not again?"
+Graaf's blade was in his hand. Not drawn, just present, the way a threat is present before it becomes an action. "You sat in your corner and the operations failed. Your chip broadcasted our location once already. Why not again?"
 
 "Because Kaito's jammer—"
 
 "Kaito's jammer is improvised technology running on moss and hope. You think the Empire can't find a way around moss?"
 
-Alexander had no answer. The chip offered arguments — technical, logical, persuasive — but arguments were the chip's specialty, and the room's trust in the chip's specialty was precisely zero.
+Alexander had no answer. The chip offered arguments, technical, logical, persuasive, but arguments were the chip's specialty, and the room's trust in the chip's specialty was precisely zero.
 
 Mira spoke from the chamber's far wall. She had been watching the debate with the coiled attention of a woman calculating several moves ahead.
 
-"If Alexander is the mole, killing him solves one problem and creates another. He's our only Phase Three interface. Without him, the counter-frequency work stops. Convergence proceeds. Everyone dies — not in a raid but in the erasure of individual consciousness. Slowly. Painlessly. The way the Empire always does it."
+"If Alexander is the mole, killing him solves one problem and creates another. He's our only Phase Three interface. Without him, the counter-frequency work stops. Convergence proceeds. Everyone dies, not in a raid but in the erasure of individual consciousness. Slowly. Painlessly. The way the Empire always does it."
 
 "And if his chip is transmitting without his knowledge?"
 
 "Then we use that."
 
-The room shifted. Mira moved to the center — not commanding the space but occupying it with the specific gravity of someone who had a plan.
+The room shifted. Mira moved to the center, not commanding the space but occupying it with the specific gravity of someone who had a plan.
 
-"If Alexander's chip is leaking data, we don't need to stop it. We need to control what it leaks. Feed it false intelligence. Locations we've abandoned, operations we've cancelled, contacts we've already burned. The Empire acts on the data, finds nothing, and begins to doubt the source. Meanwhile, we learn the chip's transmission patterns — when it sends, what it sends, how it encrypts. That knowledge is worth more than Alexander's life."
+"If Alexander's chip is leaking data, we don't need to stop it. We need to control what it leaks. Feed it false intelligence. Locations we've abandoned, operations we've cancelled, contacts we've already burned. The Empire acts on the data, finds nothing, and begins to doubt the source. Meanwhile, we learn the chip's transmission patterns: when it sends, what it sends, how it encrypts. That knowledge is worth more than Alexander's life."
 
 She said this looking at Alexander. Her eyes said: *I am using you. I am telling you that I am using you. This is the only kind of honesty I know how to give.*
 
-Alexander heard it. And something in him — the operative, the intelligence professional, the man who had spent twelve years doing to others exactly what Mira was now proposing to do to him — recognized the strategy with the grim admiration of one craftsman appreciating another's work.
+Alexander heard it. And something in him, the operative, the intelligence professional, the man who had spent twelve years doing to others exactly what Mira was now proposing to do to him, recognized the strategy with the grim admiration of one craftsman appreciating another's work.
 
-"She's right," he said. "If the chip is leaking — and it might be — I'm more valuable as a controlled channel than as a corpse."
+"She's right," he said. "If the chip is leaking, and it might be, I'm more valuable as a controlled channel than as a corpse."
 
 "You're remarkably calm about being used as a tool," Graaf said.
 
 "I've been a tool for twelve years. At least this time the hand that holds me is pointing me at the right target."
 
-The room didn't laugh. The room wasn't ready to laugh at anything Alexander Vasek said. But the tension shifted — from the bright edge of imminent violence to the duller, more manageable weight of strategic compromise.
+The room didn't laugh. The room wasn't ready to laugh at anything Alexander Vasek said. But the tension shifted, from the bright edge of imminent violence to the duller, more manageable weight of strategic compromise.
 
-The vote was not unanimous. Graaf voted to kill. Three others joined him. But Mira's faction held: Alexander would live, would be monitored, would be fed false data through his chip's passive surveillance function. He would become what he had always been — a double agent — but now the doubling would be deliberate, and both sides of the split would serve the same cause.
+The vote was not unanimous. Graaf voted to kill. Three others joined him. But Mira's faction held: Alexander would live, would be monitored, would be fed false data through his chip's passive surveillance function. He would become what he had always been, a double agent, but now the doubling would be deliberate, and both sides of the split would serve the same cause.
+
+After the vote, the room dispersed with the careful choreography of people who had just made a decision they were not sure they could live with. Graaf left without speaking, his faction following in a tight formation that was less strategic than instinctive, the grouping of people who felt outnumbered. Nkechi stayed at her console, her fingers already working, routing the false intelligence streams she would need to construct. The smallest child, the one who slept at Nkechi's ankle, sat on the floor beside the console and watched the blinking lights with the fixed attention of someone too young to understand the crisis and old enough to feel it.
+
+Alexander remained in his corner. The chalk line was gone but the boundary held, the invisible architecture of distrust that needed no marks to maintain itself. He sat and the chip processed the room's aftermath and offered: *Social dynamics assessment: faction alignment stable. Recommendation: maintain low profile. Estimated trust recovery timeline: 14-21 days.* The chip was, as always, optimistic about timelines. It measured trust the way it measured everything: in units, in gradients, in recoverable parameters. It did not understand that some damage does not recover on a timeline. Some damage becomes the terrain.
 
 ---
 
-Kaito confirmed it that night. Working in his nest of salvaged equipment in the archive's deepest alcove, his damaged hands moving across the diagnostic tools with their dissonant precision, he mapped the Phase Three chip's transmission patterns.
+Kaito confirmed it that night. Working in his nest of salvaged equipment in the archive's deepest alcove, his damaged hands moving across diagnostic tools with their dissonant precision, he mapped the Phase Three chip's transmission patterns.
 
-"It's not the beacon," he said. His voice was clearer when he was doing engineering — the technical framework providing a structure his shattered processing could navigate. "The beacon was an active broadcast — loud, intentional, the chip's emergency protocol. This is different. This is — " He hummed a low tone and drew a diagram in the air. "Passive. Background. Like breathing. The chip sends a continuous low-level signal — biometric data, environmental readings, neural activity patterns. Not encrypted like the beacon. Encoded in the chip's normal operating frequency. Hiding in plain sight."
+"Not the beacon," he said, his voice clearer when doing engineering, the technical framework steadying his shattered processing. "The beacon was a scream. This is breathing. Continuous low-level signal: biometrics, environment, neural patterns. Encoded in the chip's normal operating frequency. Hiding in the hum."
 
 "Can you block it?"
 
-"Block it and the chip notices. The chip is designed to maintain contact with the network. If the signal stops, the chip flags it and initiates recovery protocols — which might trigger another beacon episode." Kaito shook his head, a motion that continued into his shoulders and then his whole body, a wave of negation. "But we can shape it. The signal is automatic — it transmits whatever the chip is processing. If we control what the chip processes, we control what the signal sends."
+"Block it and the chip panics. Recovery protocols, maybe another beacon." He shook his head, the motion rippling through his whole body. "But we can shape it. The signal transmits whatever the chip processes. Control the input, control the output."
 
-"Feed the chip false data and the chip transmits false data."
+"And Kessler?" Alexander said.
 
-"*Sono tōri desu.* Exactly so."
+"Eight billion chips, eight billion signals," Kaito said. "Automated processing sorts them. She gets summaries, not raw feeds. If the false data matches normal patterns, the machines between you and her won't flag it." He paused, his hands still on the diagnostic screen, and added quietly: "*Demo ne.* But she'll notice eventually. She built the system. She knows what normal looks like because she designed normal."
 
-Alexander sat in the archive and felt the chip humming — its constant, faithful connection to the Empire's network. A leash he hadn't known he was wearing. He had thought, after the extraction, after the archive, after choosing to work with Mira, that he had broken free. That the choice to defect was the choice to be free.
+Alexander sat in the archive's alcove and felt the chip humming, its constant, faithful connection to the Empire's network. A leash he hadn't known he was wearing. He had thought, after the extraction, after the archive, after choosing to work with Mira, that he had broken free. But the chip's breathing went on, inhaling his experience, exhaling it to the network, the most intimate betrayal imaginable: his own perceptions sold to the machine by the machine inside him, without his knowledge, without pause, without the decency of asking.
 
-But the chip didn't recognize choices. The chip recognized architecture. And the architecture was the Empire's, and it would serve the Empire regardless of what the mind above it decided. Alexander's rebellion was real. His chip's loyalty was also real. And he was both.
+"The window is weeks, not months," Mira said from the alcove entrance. "By the time she notices, we'll have learned the transmission architecture and she'll have wasted resources chasing ghosts."
 
-The double agent in the most literal sense: not a person pretending to serve two masters, but a person who was, physically, neurologically, irrecoverably, two things at once. A mind that had chosen the resistance and a chip that served the Empire and no amount of choice would resolve the split because the split was not a decision but a condition.
+The plan went into effect the next morning. Nkechi designed the false intelligence with the same methodical care she applied to everything: spreadsheets of abandoned locations cross-referenced with plausible operational timelines, fabricated contact names built from census data the resistance had salvaged, dead drops and meeting coordinates that mapped onto real geography but led nowhere. She worked through the night, her solder-blackened fingers moving across a salvaged tablet, and when she showed Alexander the constructed intelligence package, he recognized the craftsmanship with professional discomfort. It was good. It was the kind of work he had done for twelve years on the other side.
 
-Mira's plan went into effect the next morning. The resistance began feeding Alexander carefully constructed false intelligence — locations of abandoned safe houses, details of cancelled operations, the names of contacts who had already been relocated. The data was plausible, internally consistent, and completely useless. Alexander's chip processed it without question — the Phase Three architecture was designed to absorb intelligence data, not to evaluate its veracity. The chip took what it was given and transmitted it faithfully, a loyal servant carrying a forged message.
+"You have a talent for deception," he said.
 
-The effect was immediate. Empire responses to the false intelligence were visible within days — tactical units dispatched to empty locations, surveillance focused on abandoned contacts. The Empire was chasing ghosts, and the chasing created gaps in their actual intelligence coverage that the resistance could exploit.
+"I have a talent for survival," she said. "Deception is the tax."
 
-Alexander watched the plan work and felt the particular vertigo of being both the weapon and the target. Every piece of false data he absorbed was a betrayal of the chip that served him — the chip that moderated his pain, clarified his thoughts, kept his body functioning. He was lying to a part of himself. The chip didn't know it was being lied to. The chip trusted him the way a child trusts a parent — completely, structurally, with no capacity for suspicion.
+The resistance fed Alexander the carefully constructed false intelligence: abandoned safe houses, cancelled operations, relocated contacts. Plausible, consistent, useless. His chip processed it without question and transmitted it faithfully, a loyal servant carrying a forged message.
 
-He thought of his mother, trusting the Empire that erased her. He thought of Dara, trusting the man who mapped her home for destruction. Trust was the mechanism. Trust was always the mechanism. The Empire ran on trust — the chip's trust in the network, the network's trust in the data, the data's trust in the operative. Break the trust and the system broke. But breaking trust was never clean. It cost something. It always cost.
+Within days, Empire tactical units were dispatched to empty locations. A strike team raided an abandoned fishing village that the resistance had cleared six months earlier. A surveillance operation deployed around a contact address in Bari that belonged to a woman who had died of natural causes the previous winter. Each wasted deployment pulled resources from the Empire's actual search perimeter, and each report of empty rooms and cold trails eroded the network's confidence in its source, in Alexander's chip, in the data it delivered with such faithful, unconscious precision.
 
-Mira found him in the archive that night, sitting among the oracle bones, his hands flat on the stone floor, his eyes closed. She sat near him — closer than before, the distance between them shrinking by increments she didn't acknowledge and he didn't mention.
+The resistance used the gaps. A medical supply run succeeded for the first time in weeks. Two families were relocated from a compromised safe house. Nkechi reestablished contact with a cell in Tunis that had gone silent after the relay's destruction. The plan was working.
 
-"The false feed is working," she said. "Kaito confirms the Empire has redeployed three surveillance units based on our data. Their coverage of the actual resistance network has dropped by twelve percent."
+Alexander watched the plan work and felt
+
+The chip: *operational parameters nominal. Data transmission consistent. No anomalies detected.*
+
+The body: you are lying to the thing that keeps you alive. You are using its trust the way you used the settlement's trust. You are
+
+&nbsp;
+
+The chip: *current task performance: optimal.*
+
+The body: the same. You are the same. The instrument has changed hands but the instrument is
+
+&nbsp;
+
+He couldn't finish the thought. Neither voice would let the other complete the sentence. In the space between them, the space that was neither the chip's clinical certainty nor the body's raw knowing, the vertigo lived. The vertigo of being the weapon and the wielder and the wound.
+
+He walked through the cave system and passed the children's alcove. The smallest child was drawing with a stub of charcoal on the limestone wall, not the Nsibidi characters from the card game but something new, something her own hand was inventing, a shape that looped and doubled back on itself like a question asked in a language that didn't exist yet. She saw Alexander watching and covered the drawing with her body, her back flat against the stone, her eyes on him with that clear-eyed mammalian assessment the resistance children had perfected. He nodded and walked on. Behind him, he heard the charcoal resume its scratching, the sound of a child deciding, on insufficient evidence, that one particular monster could be trusted to pass.
+
+Mira found him deeper in the tunnels that night, not the archive but the passages beyond, where the chip's narration thinned to a murmur.
+
+"The feed is working," she said. "Empire coverage of the resistance network has dropped twelve percent."
 
 "Good."
 
-"You don't sound like it's good."
+Silence. Then, without preamble:
 
-Alexander opened his eyes. The archive's bioluminescent light was low — nighttime spectrum, the cultures dimming in sympathy with a sun they'd never seen. Mira's face was half in shadow.
-
-"The chip trusts me," he said. "It doesn't know what I'm doing. It takes the false data and sends it because that's what it's designed to do — transmit what I process. And I'm — I'm lying to it. Using its loyalty against it."
-
-"You're describing intelligence work. Which is what you did for twelve years."
-
-"I know. That's the problem. I did this to communities. I gained their trust and used it to map their destruction. And now I'm doing it to the chip, and the chip is — " He stopped. The sentence was going somewhere the chip didn't want it to go, and the nausea was rising.
-
-"The chip is what?"
-
-"The chip is the closest thing to a constant companion I've had since I was ten years old. It's been in my head for twenty-four years. It taught me to think. It managed my pain. It — " His voice broke, and the break was not the chip's prose fracturing but something older. Something human. "It was the voice that told me my mother was fine. That she was better. That the treatment was a kindness."
-
-He looked at Mira. "And I believed it. Because the voice was clear and certain and inside my own head, and what alternative did a ten-year-old have? What alternative does anyone have, when the cage is inside your skull?"
-
-Mira was still. Not the strategic stillness of their first meetings. A different stillness — the stillness of a woman hearing something she hadn't expected to hear, something that was rearranging the furniture of her understanding.
-
-"I called your people hollow," she said. Not an apology. A confession. "For years. Since I was sixteen and they burned my community. I said the chipped were hollowed — that the chips ate you and left shells. That you weren't fully human."
+"I called your people hollow." Her voice was flat, confessional. "For years. Since I was sixteen and they burned my community. I said the chips ate you. Left shells. That you weren't — " She stopped. In the dark, Alexander heard her shift her weight, heard the small sound of a hand rubbing a face. "I've said this in my head a hundred times. It was very clean in my head. Very articulate." A half-laugh, without humor. "Turns out it's different when you say it to someone you actually called hollow. To his face."
 
 "You weren't wrong."
 
-"I was wrong. What's inside you isn't nothing. It's something trapped. And I spent years refusing to see the difference because seeing it would have meant — " She paused, and the pause was heavy. "It would have meant you were people. And if you were people, then what the Empire did to you was the same thing it did to us. And I couldn't hold that. I couldn't fight the Empire and also grieve for it."
+"I was wrong." The words came out rough, without her usual precision. "What's inside you isn't nothing. It's — I don't even have the right word. Trapped sounds too simple. Like you could just open a door and it would walk out. It's more like — " She made a frustrated sound. "You see? This is what I mean. I've spent fifteen years telling people that phonetic language can't hold what matters, and now I'm trying to say something that matters and I can't — I can't find the — "
 
-The archive breathed around them. The artifacts waited. In the deep stone, water moved through channels older than language.
+She broke off. Tried again, quieter. "What's inside you is something alive. And I refused to see it because seeing it would have meant you were people. And if you were people, then what the Empire did to you was the same thing it did to us. And I couldn't hold that. I was sixteen and my grandmother was dead and I could not — " Her voice cracked. She cleared her throat. "I could not hold that and survive."
+
+The tunnel held the words the way stone holds water, slowly, permanently. Somewhere deeper in the cave system, water dripped at intervals the chip counted (2.3 seconds) and the body heard as rhythm, as the cave's own pulse, as the sound time makes when it is not being managed.
 
 "Nobody trusts me," Alexander said. "Not the resistance. Not the chip. Not you."
 
-"No," Mira said. "Nobody trusts you."
+"No. Nobody trusts you."
 
 "Then what am I?"
 
-She considered him. The strategist and the woman. The fighter and the grief.
+"The double agent. The one whose split is the weapon." Her voice was steady, the strategist rebuilt on new foundations, the ones the tunnel training had laid. "The chip serves the Empire. You serve us. The space between: that's where the frequency lives."
 
-"You're the double agent," she said. "The one whose split is the weapon. The chip serves the Empire. You serve us. And the space between — the war zone between the chip's loyalty and your choice — that's where we're going to find the frequency that breaks the system."
+She stood. In the dark, her movement was a sound more than a sight.
 
-She stood. At the chamber's exit, she turned back.
+"I don't trust you. But I need you. And right now, needing is more honest than trusting."
 
-"I don't trust you," she said. "But I need you. And right now, needing is more honest than trusting."
-
-She left. Alexander sat in the archive among the bones of dead languages and the ghost of a living one and the chip hummed its transmission and his hand, resting on the ancient stone, traced a character in the dark, and the character was the shape of a question he was only beginning to learn how to ask.
+She left. Alexander sat in the dark and the chip hummed its faithful transmission and his hand, resting on cold stone, traced a character that was the shape of a question he was only beginning to learn how to ask.
