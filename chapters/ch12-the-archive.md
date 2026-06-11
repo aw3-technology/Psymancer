@@ -16,9 +16,11 @@ Hieroglyphic fragments. Cuneiform tablets. A palm-leaf manuscript covered in Tam
 
 And objects Alexander's chip could not classify at all. Stone tablets inscribed with symbols that matched no known writing system. Carved bone fragments whose marks seemed to shift in peripheral vision. A flat piece of obsidian, polished to a mirror sheen, with a single character etched into its surface, a character that appeared different each time Alexander looked at it, as if it were not a fixed mark but a living process.
 
+The archivist was there: a small, furious man named Tedros, who had argued against Alexander's admission for two days and lost, and who had set three conditions in defeat — the blindfold, the empty pockets, his own presence. He stood against the far wall with his arms crossed, and when Alexander moved toward a case, Tedros moved with him. Not blocking. Present. A man prepared to put his body between a fifteen-hundred-year-old tablet and whatever the Empire's creature might do. No one told him to relax. The vigilance was his right; half the objects in the room, Mira said later, he had carried out of burning buildings himself.
+
 Kaito was already in the archive. He had been there since their arrival, spending hours among the artifacts, humming to them, touching them, his damaged multi-modal consciousness finding in them something the intact minds around him could not access. He sat cross-legged before a cluster of oracle bones, his hands moving over them without touching, his humming generating visible vibrations in the dust motes that drifted through the chamber's still air.
 
-"They're not dead," Kaito said, sensing Alexander's presence without looking up. His voice here was different from the facility, steadier, the fragments longer, as if the archive's presence organized his shattered processing. "The writing. Everyone says dead languages, dead scripts." His hands opened like a flower, then closed, then opened differently. "Sleeping. Waiting. The neural pathways they activate are still in the brain. Under the chip. Under everything the Empire built. The old roads are still there."
+"They're not dead," Kaito said, sensing Alexander's presence without looking up. "The writing. Everyone says dead languages, dead scripts." His hands opened like a flower, then closed, then opened differently. "Sleeping. Waiting. The neural pathways they activate are still in the brain. Under the chip. Under everything the Empire built. The old roads are still there."
 
 Mira entered behind Alexander. She moved through the archive with the familiarity of someone who had spent years here, her hands reaching out to touch the cases with a tenderness that Alexander had never seen in her before, a gentleness that her strategic mind kept folded away, brought out only in the presence of the things she was fighting to preserve.
 
@@ -30,7 +32,7 @@ She moved to a table where technical documents were spread beside the artifacts,
 
 Kaito rose unsteadily. Instead of coming to the table, he took Alexander's wrist, gently, the way you'd guide a blind person, and led him to the oracle bones.
 
-"Touch," Kaito said. His voice was clearer here, as if the archive's presence stabilized something in his damaged processing. "*Sawatte.*"
+"Touch," Kaito said. "*Sawatte.*"
 
 Alexander hesitated. Mira nodded.
 
@@ -40,7 +42,9 @@ The chip stuttered. In the stutter, Alexander felt the strangest sensation: reco
 
 "You feel it," Kaito said. Not a question. "*Onaji michi.* Same roads."
 
-Alexander pulled his hand back. Looked at the chip schematic on the table, then at the bone. The circuit pathways and the carved characters; the resemblance was not metaphorical. They were the same structure. One etched in silicon, one carved in tortoiseshell, three thousand years apart.
+Alexander pulled his hand back. Looked at the chip schematic on the table, then at the bone. The circuit pathways and the carved characters; the resemblance was not metaphorical. They were the same structure. One etched in silicon, one carved in tortoiseshell.
+
+"It's a copy," he said. "Someone carved a replica of the substrate architecture. A teaching tool. A—" The chip supplied the word: *forgery.* But the patina was three thousand years old, and the scorch marks of the carver's heated stylus had been made over a fire that burned before the alphabet reached the Yellow River, and the inference collapsed under the dates. What stood up in its place was larger and worse, and it arrived in the flat voice he used for reporting confirmed intelligence.
 
 "She didn't invent it," Alexander said slowly. "Kessler. She found it. In these."
 
@@ -72,9 +76,7 @@ He reached out. The chip generated a final warning: *Contact with active non-cla
 
 He touched the bone.
 
-The world ended. The world began.
-
-Not a dream. Not a vision. Not the gentle perceptual softening of Dara's breathing exercise or the disorienting stutter of the singing house. This was a rupture, a tearing of the membrane between the world the chip provided and the world that existed before any chip, before any alphabet, before the first human mouth shaped the first phoneme and began the long narrowing that would eventually produce the Empire's alphabetized, catastrophically incomplete version of consciousness.
+Not a dream. Not a vision. Not the gentle perceptual softening of Dara's breathing exercise or the disorienting stutter of the singing house. This was a rupture, a tearing of the membrane between the world the chip provided and the world that existed before any chip, before any alphabet.
 
 For ninety seconds, Alexander saw in logographic mode.
 
@@ -82,7 +84,7 @@ The room was not a room. It was a pattern of relationships, every object connect
 
 Mira was not a person. Not in the chip's sense, a bounded entity with measurable dimensions and categorizable attributes. She was a field of intention, a pattern of commitment and grief and ferocity that extended beyond her body into the space around her, touching the artifacts, touching the walls, touching Alexander. He could feel her grief for Dara, not as an emotion but as a shape, a dense knot of unresolved meaning that she carried like an organ, like a second heart.
 
-His own body was a chorus. Not a single voice but a multitude, memories layered on memories, each one a character in a composition he hadn't known he was writing. His mother's song was there, not as a recollection but as a living presence, a melody that had been humming beneath the chip's narration for twenty-seven years, waiting. Dara's dying gesture was there, the character she'd traced on his wrist, still inscribed, still legible to the eyes he was now seeing with. The three words he'd spoken in the briefing room were there, not unknown but remembered, a phrase in a language his mother had taught him before the chip erased the teaching but not the learning.
+His own body was a chorus. Not a single voice but a multitude, memories layered on memories, each one a character in a composition he hadn't known he was writing. His mother's song was there, not as a recollection but as a living presence, a melody that had been humming beneath the chip's narration for twenty-four years, waiting. Dara's dying gesture was there, the character she'd traced on his wrist, still inscribed, still legible to the eyes he was now seeing with. The three words he'd spoken in the briefing room were there, not unknown but remembered, a phrase in a language his mother had taught him before the chip erased the teaching but not the learning.
 
 And the chip, the chip was there too. Not an invader. Not a parasite. A structure. A massive, intricate, beautiful structure built on top of the living text, built from the same material, using the same neural pathways, but configured to read in only one direction. The chip was a library that had sealed all its doors except one and called the remaining hallway the whole of knowledge.
 
@@ -114,6 +116,8 @@ She said nothing. She didn't need to. In the logographic mode Alexander was only
 
 Kaito, in the corner, was crying. The tears ran through his broken smile and his hands drew characters in the air and his humming was a sound the archive recognized, the sound of something old waking up in the presence of someone who had finally come looking.
 
+Tedros retrieved the small oracle bone from where it had fallen, examined it with a jeweler's attention, and returned it to its place, and the look he gave Alexander on the way back held something new mixed into the fury: the unwilling regard of a keeper for anything the artifacts chose to answer.
+
 Mira cleaned the blood from his face. She used a cloth from the archivist's table, dampened with water from a canteen, and her hands were practical, not gentle — the hands of someone performing triage, not tenderness. But she held his jaw to steady his head while she wiped, and the holding was its own statement.
 
 "How long?" Alexander asked. His voice was hoarse.
@@ -137,6 +141,8 @@ She watched the neural signatures of Alexander's logographic episode. She watche
 The data showed what she had hypothesized and feared and hoped: the Phase Three substrate was doing exactly what she designed it to do. It was giving its host access to the old pathways. And the old pathways were stronger than the phonetic architecture that had been built on top of them.
 
 The cage could not hold.
+
+On the desk beside the screen, in an evidence sleeve stamped with a detention-intake number, lay a folded piece of paper: a character traced in dust by a sleeping man's hand, preserved by a strategist, confiscated by a search protocol, and passed up the chain to the one person who could recognize what it was, if not what it meant. Sophia had unfolded it twice. Both times she had worn gloves. Both times she had been aware, distantly, that the gloves were not procedure. They were reverence, and she did not examine the difference.
 
 Sophia reached for her teacup. Her hand was steady. Her face was composed. In the glass case behind her, the artifacts of extinct writing systems watched from their controlled environment, and in the data on her screen, one of those systems was waking up inside a mind she had built to contain it.
 

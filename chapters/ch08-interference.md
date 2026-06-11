@@ -28,10 +28,6 @@ Alexander's chip caught up. A cascade of corrections: vocal pattern override, so
 
 The room reset. Eleven chipped minds accepted the explanation; it was plausible, it was technical, it fit the known parameters of upgrade integration. Novak nodded and returned to his briefing. The moment sealed over like water closing above a stone.
 
-But two seats to Alexander's left, an analyst named Weber was watching him with an expression the chip flagged as "elevated suspicion, social threat level: low." Weber had been chipped at age six. He had no memory of any other mode of consciousness. To him, Alexander's vocalization was not a mystery; it was a malfunction. The same way a car making an unfamiliar noise was not mysterious but broken.
-
-Alexander filed Weber's attention as a datum. The chip advised: *Monitor. No immediate action required.*
-
 He left the briefing. In the corridor, Novak caught up with him.
 
 The commander walked beside Alexander for ten paces without speaking, an unusual expenditure of time for a man who scheduled his bathroom breaks. Novak held his coffee in both hands, and Alexander noticed, for the first time in years of working together, that the mug was not Empire Standard issue. It was ceramic, hand-painted, slightly chipped at the rim. A child's drawing of a house on one side, the paint faded from years of washing. The kind of mug you keep not because it's good but because someone small made it for you.
@@ -42,17 +38,17 @@ He said this the way he said everything, with the flat delivery of a man reading
 
 "Get some rest, Vasek. The upgrade artifacts will stabilize. They always do."
 
-He walked away. His shoes clicked on the polished floor with metronomic precision, and the coffee steamed from the mug his niece had made with her own hands before her hands were taught that making things was inefficient, and Commander Novak, the banality of the system, the man who processed compliance reports with the same attention he gave his morning coffee, carried the evidence of everything the Empire had taken from him without once allowing the thought to form that anything had been taken at all.
+He walked away. His shoes clicked on the polished floor with metronomic precision, and the coffee steamed from the mug with the lopsided house.
 
 In the corridor, Alexander passed Richter, the interrogation specialist. She was eating a protein bar and scrolling through a file on her tablet, walking and working with the dual-task efficiency the chip made effortless. She looked up.
 
-"Vasek. Welcome back. I heard you had extended field time on MED-7-C. Fascinating community; the multi-modal writing practices are some of the most complex we've cataloged. I'm working with Subject Adaeze now. She's extraordinary. The neural dampeners barely register with her; she's doing something with the suppressive field that I've never seen. Kessler is very interested."
+"Vasek. Welcome back. I heard you had extended field time on MED-7-C. Fascinating community; the multi-modal writing practices are some of the most complex we've cataloged. I'm working with Subject Adaeze now. Kessler is very interested."
 
 Richter spoke with the professional enthusiasm of a specialist describing a challenging case. Her admiration for Mira's capabilities was genuine, the same way a hunter might genuinely admire a prey animal's evasion tactics. The chip organized Richter's interest into approved channels: professional curiosity, intellectual engagement, career development. The chip did not organize it into what it also was: the careful, appreciative study of a person who would be killed in twelve days.
 
 "The juvenile casualty was unfortunate," Richter added, still scrolling. "The tactical after-action review suggests the disruptor operator was outside his engagement envelope. It happens with non-standard neural profiles; the calibration tables don't account for the cognitive density these kids develop in archaic communities." She shook her head, the gesture precise, chip-modulated, expressing the approved amount of professional regret. "We lose maybe one per quarter that way. Kessler has flagged it for the next equipment review."
 
-One per quarter. Four children per year. Sixteen since Alexander had been with the division. The number was not large. The number was within parameters. The number was a sentence that contained a city of grief and the sentence was grammatically correct and the grammar was a wall and behind the wall were the faces of children who had held brushes and drawn in sand and been extraordinary in ways the equipment review would never calibrate for.
+One per quarter. Four children per year. Sixteen since Alexander had joined the division. The number was not large. The number was within parameters.
 
 "Good to have you back," Richter said, and walked on.
 
@@ -80,7 +76,7 @@ She was in an interrogation suite, not a cell, not exactly. A room with a table,
 
 Mira sat in the chair. She was still. Not rigid, not the locked tension of resistance, but the deep, liquid stillness of someone who had decided to become unreadable. Her hands were flat on the table. Her face was, the chip said "neutral affect" and Alexander was beginning to understand how inadequate that term was.
 
-An interrogator sat across from her. Standard approach: empire-approved conversational protocol, the chip feeding optimal question sequences, voice modulated for trust-building. The interrogator was good; Alexander had worked with her before, a specialist named Richter who could build rapport with a stone wall.
+Richter sat across from her. Standard approach: Empire-approved conversational protocol, the chip feeding optimal question sequences, voice modulated for trust-building. Richter was good; Alexander had watched her build rapport with men who had watched their villages burn.
 
 "Mira, we understand this is a difficult transition. The Empire's cognitive integration process is designed to—"
 
@@ -144,7 +140,7 @@ No action required. The sentence was a wall. Behind the wall was a woman who cou
 
 *No action required.*
 
-He stood and walked to the elevator and rode it to the ground floor and walked through the Zurich facility's glass lobby and the lobby was glass and the glass was clean and the clean was a kind of — *[correction: architectural materials do not possess abstract qualities]* — he stood outside in the November air and breathed. The air was cold, seven degrees, the chip reported. The chip reported and reported. The chip would never stop. Alexander stood in the cold and felt, not what the chip said he felt but what his body — *[correction: body and chip are an integrated system; the distinction is]* — what his body felt was a pressure in his chest like something trying to expand inside a space too small for it.
+He stood and walked to the elevator and rode it to the ground floor and walked through the Zurich facility's glass lobby and the lobby was glass and the glass was clean and the clean was. The clean was. He stood outside in the November air and breathed, and the breath arrived with a strange, total calm: cortisol falling, heart rate settling, a serenity so smooth and so sudden that he understood, a beat later, that it had been administered. The air was cold, seven degrees, the chip reported. And beneath the administered calm, something in his chest went on trying to expand inside a space too small for it.
 
 He had done this. Not the extraction order; that was Sophia's. But the intelligence. The mapping. The eastern approach. Every piece of information that had made the raid possible and the capture inevitable had come from his precise, professional, chip-organized mind.
 

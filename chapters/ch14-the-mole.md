@@ -10,7 +10,7 @@ A recruitment contact in Naples, arrested at his workplace. The Empire agents kn
 
 Three operations in three days. Each one compromised with a specificity that eliminated coincidence.
 
-The human cost arrived in pieces. The supply run team, two women and a man Alexander had seen sharing flatbread in the archive's upper chambers, came back as a report: captured, transported, likely en route to a processing facility. The communications relay had been Nkechi's backup system, three months of patient assembly destroyed in minutes. She received the news with a stillness that was not calm but the controlled absence of the explosion she could not afford. The recruitment contact in Naples had a daughter, eight years old, who had been with him at his workplace when the Empire agents came. Nobody knew where the daughter was now.
+The human cost arrived in pieces. The supply run team, two women and a man Alexander had seen sharing flatbread in the archive's upper chambers, came back as a report: captured, transported, likely en route to a processing facility. The communications relay had been Nkechi's backup system, three months of patient assembly destroyed in minutes. She received the news with a stillness that was not calm but the controlled absence of the explosion she could not afford. The recruitment contact in Naples had a daughter, eight years old, named Bianca, who had been with him at his workplace when the Empire agents came. Nobody knew where Bianca was now.
 
 The cell's architecture of trust, already fragile, already patched together from desperation and shared loss, cracked along every seam. People stopped sharing meals. Conversations died when certain footsteps approached. The children noticed. One of them, the smallest, started sleeping with her hand curled around Nkechi's ankle, as if the physical contact could prevent whatever invisible thing was pulling their world apart.
 
@@ -74,13 +74,27 @@ Kaito confirmed it that night. Working in his nest of salvaged equipment in the 
 
 "Block it and the chip panics. Recovery protocols, maybe another beacon." He shook his head, the motion rippling through his whole body. "But we can shape it. The signal transmits whatever the chip processes. Control the input, control the output."
 
+It was Nkechi who found the snag. She came to the alcove with her tablet and the operations files and laid the inconsistency out flat, because that was how she handled fear: she gave it edges. "The relay. The Empire knew its shielding frequency and its burst schedule. Alexander has never seen either; I built that relay after he arrived, and I encrypt my schedules even from Mira. And the Naples contact: they had his complete file. Pre-resistance employment. His sister's address. That's not in any room Alexander has breathed in."
+
+Kaito's hands stopped. The alcove's logic rearranged itself around the gap.
+
+"So the chip is leaking," Nkechi said, "and the chip is not the only explanation. Either the Empire's analysts are better at assembly than we want to believe, or—" She didn't finish. The third possibility was a second mole, and saying it aloud would set it loose in a cell already eating itself.
+
+No one said it. Everyone heard it. The question went into the dark with them and stayed there, unanswered, a splinter the body would work toward the surface in its own time.
+
 "And Kessler?" Alexander said.
 
-"Eight billion chips, eight billion signals," Kaito said. "Automated processing sorts them. She gets summaries, not raw feeds. If the false data matches normal patterns, the machines between you and her won't flag it." He paused, his hands still on the diagnostic screen, and added quietly: "*Demo ne.* But she'll notice eventually. She built the system. She knows what normal looks like because she designed normal."
+"Kessler reads the diary." Kaito did not look up. "Phase Three is her private channel. No automated layer between you and her. She built normal. She knows what normal looks like."
 
-Alexander sat in the archive's alcove and felt the chip humming, its constant, faithful connection to the Empire's network. A leash he hadn't known he was wearing. He had thought, after the extraction, after the archive, after choosing to work with Mira, that he had broken free. But the chip's breathing went on, inhaling his experience, exhaling it to the network, the most intimate betrayal imaginable: his own perceptions sold to the machine by the machine inside him, without his knowledge, without pause, without the decency of asking.
+"Then the plan is dead before it starts."
 
-"The window is weeks, not months," Mira said from the alcove entrance. "By the time she notices, we'll have learned the transmission architecture and she'll have wasted resources chasing ghosts."
+"Or the plan works," Kaito said, "and the working tells you something worse." He set down the diagnostic tool, and his damaged eyes did the thing they did when the engineer fully surfaced: they stopped wandering. "If the Empire chases your ghosts, one of two things is true. The tactical channels and the diary are not connected — possible; the Director hoards what is hers. Or she reads the diary, sees the forgery, and lets the strike teams chase ghosts anyway." He let it sit. "I built her systems for nine years. I never once saw her fail to notice something."
+
+Mira had come to the alcove entrance in time to hear it. "You're saying that if this works, it works because she permits it."
+
+"I'm saying," Kaito said, returning to his diagnostics, "that you should ask, every time something works, who it is working for."
+
+Alexander sat in the archive's alcove and felt the chip humming, its constant, faithful connection to the Empire's network. A leash he hadn't known he was wearing. He had thought, after the extraction, after the archive, after choosing to work with Mira, that he had broken free. But the chip's breathing went on, inhaling his experience, exhaling it to the network, the most intimate betrayal imaginable: his own perceptions sold to the machine by the machine inside him, without his knowledge, without pause, without the decency of asking. And somewhere north, a woman who had built both the machine and the man around it was reading, and what she did with her reading was a variable no plan of theirs could hold.
 
 The plan went into effect the next morning. Nkechi designed the false intelligence with the same methodical care she applied to everything: spreadsheets of abandoned locations cross-referenced with plausible operational timelines, fabricated contact names built from census data the resistance had salvaged, dead drops and meeting coordinates that mapped onto real geography but led nowhere. She worked through the night, her solder-blackened fingers moving across a salvaged tablet, and when she showed Alexander the constructed intelligence package, he recognized the craftsmanship with professional discomfort. It was good. It was the kind of work he had done for twelve years on the other side.
 
@@ -100,13 +114,13 @@ The chip: *operational parameters nominal. Data transmission consistent. No anom
 
 The body: you are lying to the thing that keeps you alive. You are using its trust the way you used the settlement's trust. You are
 
-&nbsp;
+*
 
 The chip: *current task performance: optimal.*
 
 The body: the same. You are the same. The instrument has changed hands but the instrument is
 
-&nbsp;
+*
 
 He couldn't finish the thought. Neither voice would let the other complete the sentence. In the space between them, the space that was neither the chip's clinical certainty nor the body's raw knowing, the vertigo lived. The vertigo of being the weapon and the wielder and the wound.
 
@@ -142,4 +156,4 @@ She stood. In the dark, her movement was a sound more than a sight.
 
 "I don't trust you. But I need you. And right now, needing is more honest than trusting."
 
-She left. Alexander sat in the dark and the chip hummed its faithful transmission and his hand, resting on cold stone, traced a character that was the shape of a question he was only beginning to learn how to ask.
+She left. Alexander sat in the dark and the chip hummed its faithful transmission, inhaling him, exhaling him, and somewhere north a woman was reading the exhalations, and between the hum and its reader sat the one thing neither owned: the space between, where the frequency lived.

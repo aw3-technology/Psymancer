@@ -24,7 +24,7 @@ She was standing at the window, her back to him, looking out over the lake. She 
 
 She gestured to a chair. He sat. The office was austere by any standard but Sophia's own: a desk, two chairs, a wall of screens showing real-time data from the global chip network: eight billion points of light, each one a mind in the system, each one legible.
 
-One screen displayed the Directorate, the Empire's governing structure rendered as a clean organizational chart. Twelve directors, each managing a domain: Cognitive Unity, Security, Infrastructure, Population Health, Agriculture, Economic Integration, Cultural Preservation, Education, Energy, Communications, Transportation, Research. Not a parliament; administrators. Elections had been phased out after chip coverage passed eighty percent, because the network's predictive models could determine optimal governance more accurately than voters expressing individual preference. Citizens perceived this as efficiency, not tyranny. The chip confirmed: best way. On an adjacent screen, citizen satisfaction metrics pulsed in a steady green waveform, a civilization's contentment rendered as a heartbeat, always healthy, always stable. The Empire didn't suppress dissent; the chip prevented the cognitive conditions that produced it. Government as background service, silent and total as gravity.
+One screen displayed the Directorate: twelve administrators, twelve domains, government rendered as a clean organizational chart. Elections had been phased out after chip coverage passed eighty percent; the network's predictive models had made the expression of preference obsolete. On an adjacent screen, citizen satisfaction metrics pulsed in a steady green waveform, a civilization's contentment rendered as a heartbeat, always healthy, always stable.
 
 On the opposite wall, a single painting: abstract, geometric, Empire-approved art.
 
@@ -32,7 +32,7 @@ But behind her desk, in a climate-controlled glass case that most visitors misto
 
 Alexander had seen it before. Every time, it arrested him for a moment, a brief attentional spike the chip allowed because Sophia allowed it, because this was her space and the rules here were hers.
 
-Oracle bones from the Shang dynasty, three thousand years old, their surfaces covered in the earliest known Chinese writing, characters carved into tortoiseshell and oxen scapulae, each one a question asked of the divine. Nsibidi tablets from southeastern Nigeria, the symbols flowing in patterns that defied linear reading, designed to be understood whole rather than sequentially. A fragment of Egyptian hieroglyphic papyrus, the ink still vivid after millennia. A Mayan codex page, folded, its glyphs combining image and sound in a way that the chip could parse but never fully replicate. Sumerian cuneiform pressed into clay. Rongorongo script from Easter Island, still undeciphered, still keeping its secrets.
+Oracle bones from the Shang dynasty, three thousand years old, their surfaces covered in the earliest known Chinese writing, characters carved into tortoiseshell and oxen scapulae, each one a question asked of the divine. Nsibidi tablets from southeastern Nigeria, the symbols flowing in patterns that defied linear reading, designed to be understood whole rather than sequentially. A fragment of Egyptian hieroglyphic papyrus, the ink still vivid after millennia. A Mayan codex page, folded, its glyphs combining image and sound in a way that the chip could parse but never fully replicate. Rongorongo script from Easter Island, still undeciphered, still keeping its secrets.
 
 "You're looking at them again," Sophia said.
 
@@ -90,7 +90,7 @@ She replaced the bone in its case with the care of a surgeon. "Phase Three pushe
 
 "What question?"
 
-Sophia looked at him with an expression the chip couldn't fully classify, something between affection and clinical interest, between a mother's pride and a scientist's curiosity.
+Sophia looked at him with an expression the chip couldn't fully classify, something between affection and clinical interest.
 
 "Whether the wind comes back."
 
@@ -155,6 +155,12 @@ She pulled up a file on the screen. Limited data: satellite imagery of a coastal
 "You want me to infiltrate."
 
 "I want you to immerse. Your cover will be a disaffected Empire worker seeking cognitive alternatives; it's common enough that resistance cells have vetting protocols for it. With Phase Three, your chip will be undetectable by any scanning technology they possess. You'll be able to observe and report while fully embedded."
+
+"And the Division's monitoring?"
+
+"There is none. The trial architecture doesn't report to the Division grid. Phase Three telemetry routes to my systems and nowhere else; as far as the Empire's network is concerned, you'll be a standard chip on a standard assignment." She said it the way she said everything, as logistics. "Whatever happens inside you out there, I am the only one watching."
+
+The chip filed the statement under operational parameters. Something else in Alexander filed it elsewhere, in a drawer he didn't know he had.
 
 Alexander studied the file. The satellite images showed a settlement built into a hillside above a rocky coast, irregular structures, the kind of non-geometric clustering that marked archaic communities. A few boats. Gardens. No alphabetized streets. No grid.
 

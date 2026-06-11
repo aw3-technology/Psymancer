@@ -86,23 +86,19 @@ Alexander didn't cry. But he sat on the stone and breathed the chip's air and fe
 
 The days accumulated. The community operated on rhythms the chip could not track, not scheduled, not optimized, oriented around environmental variables the chip classified as irrelevant. He woke to ambient noise: wood being split, a manual water pump, vocalizations. The chip logged each sound and assigned it a priority rating of zero.
 
-But the sounds were not zero. In the grey hour before dawn, the settlement woke in layers: first the rooster that belonged to no one and answered to a name in every language, then the creak of the well pump as someone drew the morning's first water, then the soft percussion of Elif's loom starting up in her workshop, the shuttle's rhythm barely audible through stone walls but steady, always steady, the heartbeat of a woman who was dying and had decided to spend the dying making beautiful things. The chip logged the loom's rhythm at 72 beats per minute and classified it as "repetitive mechanical noise" and Alexander accepted the classification and carried it with him through the morning like a stone in his shoe, technically correct, technically nothing, technically the worst description of a human heartbeat he had ever encountered.
+But the sounds were not zero. In the grey hour before dawn, the settlement woke in layers: first the rooster that belonged to no one and answered to a name in every language, then the creak of the well pump as someone drew the morning's first water, then the soft percussion of Elif's loom starting up in her workshop, the shuttle's rhythm barely audible through stone walls but steady, always steady. The chip logged the loom's rhythm at 72 beats per minute and classified it as "repetitive mechanical noise" and Alexander accepted the classification and carried it with him through the morning like a stone in his shoe, technically correct, technically nothing, technically the worst description of a human heartbeat he had ever encountered.
 
 On the fourth morning, Alexander was invited to the communal meal.
 
-Not invited exactly. No one spoke to him. Dara appeared at his quarters, grabbed his sleeve, and towed him to the open kitchen where the community gathered around a long table made of driftwood planks laid across stone supports. The table was set with clay bowls, no two the same shape, each one carrying the marks of the hands that had made it. The food was simple: flatbread baked on a stone, fish grilled over coals, a salad of wild greens dressed with oil and something sharp and citric that the chip identified as *Citrus aurantium*, bitter orange, and Alexander tasted as a brightness that cut through the morning's fog.
+Not invited exactly. No one spoke to him. Dara appeared at his quarters, grabbed his sleeve, and towed him to the open kitchen, where the community was already gathered around the long driftwood table. The food was simple: flatbread baked on a stone, fish grilled over olive-wood coals, wild greens dressed with oil and something sharp the chip identified as *Citrus aurantium*, bitter orange, and Alexander tasted as a brightness that cut through the morning's fog.
 
-The community ate together. Not in the Empire's sense of communal dining, scheduled, nutritionally balanced, the food calibrated to each citizen's metabolic needs. This was messier. People reached across each other for bread. A child spilled a bowl and three adults moved simultaneously to help, their hands overlapping, the spill becoming a minor comedy that produced laughter from every direction. An old woman, the one with gray braids, Dara's grandmother, served Alexander a portion of fish with a gesture that was halfway between generosity and assessment, her eyes measuring him even as her hands gave him food.
-
-He ate. The fish was grilled over olive-wood coals and the smoke had entered the flesh and the flesh tasted of the sea it had come from and the wood it was cooked over and the hands that had caught it, a young man named Tomas, who fished from a small boat at dawn and came back with his catch held in a net he'd woven himself, the net's knots incorporating logographic characters that the chip tried to classify and couldn't because the characters were structural, load-bearing, part of the net's function as well as its meaning.
-
-A man with scarred forearms, Adnan, the carpenter, who laughed easily and carved toys for the children, sat beside Alexander and handed him a piece of bread torn from his own loaf. The gesture was not strategic. The chip searched for the social calculus, *reciprocity expectation, alliance-building behavior, resource-sharing as status signal*, and found that the gesture was simply bread given because there was bread and because Alexander was sitting there without any.
+A man with scarred forearms, Adnan, the carver, who laughed easily and made toys for the children, sat beside Alexander and handed him a piece of bread torn from his own loaf. The gesture was not strategic. The chip searched for the social calculus, *reciprocity expectation, alliance-building behavior, resource-sharing as status signal*, and found that the gesture was simply bread given because there was bread and because Alexander was sitting there without any.
 
 "You eat like you're reading the food," Adnan said. His Empire Standard was rough but warm.
 
 "I was raised on engineered nutrition."
 
-"That explains the face you make. Like you're surprised the fish used to swim." Adnan grinned. The compliance chip's residual damage, the effects that would later leave his speech slurred and his hands unsteady, was not yet inflicted. His grin was whole. His hands, when he broke bread, moved with the easy confidence of a man whose body and his life had not yet been separated.
+"That explains the face you make. Like you're surprised the fish used to swim." Adnan grinned, and his hands, when he broke bread, moved with the easy confidence of a man whose body and his life had never been introduced as separate things.
 
 The meal lasted an hour. The chip classified this as "inefficient: optimal caloric intake achievable in 12 minutes." The hour included eating, talking, a brief argument about whose turn it was to clean the grill, a child's impromptu performance of something between a dance and a tantrum, and a moment of collective silence when an old man at the table's end began to hum. The hum was taken up by others, not all, not as an obligation, but as a tide: the sound rising from three or four voices, then eight, then twelve, filling the space above the table like weather, like the morning fog that the valley held, and Alexander sat in the hum and felt the chip process it and felt, beneath the processing, the sound entering his bones the way warmth enters hands held near a fire, not through understanding but through proximity.
 
@@ -117,6 +113,8 @@ She showed him the textile she was working on. It was large, the width of the lo
 She was weaving Dara's ceremony textile. The community's tradition: each child who came of age received a textile woven by someone in the community, a material record of the child's character rendered in thread and pattern. Elif was dying, and she was spending the last productive months of her hands making something that would wrap around a twelve-year-old's shoulders on the most important day of her life.
 
 The chip classified this as "gift economy, social bonding ritual." Alexander watched Elif's hands and the shuttle's movement and the pattern emerging thread by thread, and the classification sat in his mind like a lid on a pot that was boiling over.
+
+Before he left, she placed his hands on the shuttle and guided them. The chip tried to model the motion, a simple repetitive action, easily optimized, and the optimization kept failing, because the motion wasn't repetitive. Each pass responded to tensions in the warp that Alexander's fingers registered before the chip could intervene. He wove three rows. They were clumsy, uneven. Elif looked at them and laughed, a warm, uncomplicated sound that the chip processed as "positive social reinforcement" and Alexander experienced as something more than that, though he couldn't have said what.
 
 The nights were the hardest.
 
@@ -134,13 +132,27 @@ Alexander lay in the dark and the chip hummed its faithful hum and on the other 
 
 He did not write this in his intelligence report. He would not have known how to phrase it.
 
-Children's education happened in the open air, no classroom, no curriculum, no standardized assessment. The children learned practical skills alongside consciousness practices: gardening in the morning, fishing or building at midday, then drawing, singing, movement exercises in the afternoon. Learning followed the child's attention, not a schedule. Dara had learned to read non-phonetic scripts by tracing memory wall characters with her grandmother, her small fingers following the moss-grown shapes until her hands knew them before her eyes did. The chip classified this pedagogy as "unstructured, non-optimized, developmental outcomes: unquantifiable." The chip was correct. The outcomes were unquantifiable. This did not make them small.
+Children's education happened in the open air, no classroom, no curriculum, learning following the child's attention rather than a schedule. Dara had learned to read non-phonetic scripts by tracing the memory walls with her grandmother, her small fingers following the moss-grown shapes until her hands knew them before her eyes did. Art was everywhere, and the word "art" would have puzzled them: a woven pattern was a sentence, a carved figure was a letter, a song was a paragraph. The chip classified the pedagogy as "unstructured, non-optimized, developmental outcomes: unquantifiable." The chip was correct. This did not make the outcomes small.
 
-Creative life saturated the settlement. Elif's weaving was not an anomaly; the community produced art constantly. Carved objects, dyed textiles, painted characters on driftwood, musical compositions performed at no fixed time. But "art" was a word the chip applied that the community wouldn't have recognized. A woven pattern was a sentence. A carved figure was a letter. A song was a paragraph. The distinction between making and communicating didn't exist, because the language they spoke lived in material and gesture as much as in breath.
+Late in the first week, Dara found him at the eastern wall and dropped her composition book in his lap, open to the page that wasn't right.
+
+"You read people," she said. "For your old work. Data analysis." She said *data* the way other children said *spinach.* "So analyze. Why is it pretending?"
+
+Alexander looked at the page. The chip looked with him: stroke density high, compositional symmetry high, pattern regularity high. He didn't have the grammar to read what the characters said. But he had spent twelve years reading the difference between a cover story and a confession, and the difference was in his hands before the thought finished forming.
+
+"It's too even," he said. "Here. And here. Your other pages have snags in them, places where the line changes its mind and you can see it deciding. This section never changes its mind. It's the only part that knew it was being watched." He gave the book back. "When people lie to me, the lie is always smoother than the truth. The truth hesitates. The truth has grain."
+
+Dara stared at the page for a long time. "Snags," she said, in the tone of a scientist receiving disreputable but useful evidence. Then, without thanking him, thanking adults was not a thing she did, she took the book and left at a half-run, and the chip tracked her acceleration and Alexander watched until the path curved her out of sight.
+
+He had given her something. He didn't have a word for what. The chip suggested: *instructional input, minor.* The suggestion was filed.
 
 He gathered intelligence. The chip was tireless, cataloging every detail: the community's population (fifty-three, he counted), its social structure (loosely hierarchical, with Mira as the strategic leader and a council of elders handling daily governance), its infrastructure (solar power, rainwater collection, a small medical clinic equipped with salvaged Empire technology). He mapped the perimeter, identified the communications equipment, and assessed the defensive capabilities: minimal, a few weapons, a warning system based on tonal signals, nothing that would survive an hour against an Empire tactical unit.
 
-The chip compiled this data into reports that Alexander transmitted every three days through a secure channel, timing his broadcasts to coincide with the community's communal singing sessions, when the ambient electromagnetic noise from fifty voices humming in complex polyphonic patterns created enough interference to mask his signal.
+The mapping was easy. Suspiciously easy, an older instinct noted; in twelve years of fieldwork he had never moved so freely inside a vetting window. But he was never quite alone while he did it. A teenager mending nets within sight of the uplink structure. The healer gathering herbs, twice, along the eastern slope at the hours Alexander walked it. Once, heading up toward the cisterns, he found Besim sitting in the path, carving, exactly where the trail forked, and the conversation that followed was friendly and unhurried and ended with Alexander walking back the way he had come without ever deciding to. The chip logged the encounters as routine. The pattern beneath them, if it was a pattern, was one the chip had no category for: a community watching a stranger with its whole body, no guard rotas, no checkpoints, just eyes that happened, always, to be open. He noted it and left it out of the report, telling himself it was operationally irrelevant. The cisterns never did get mapped.
+
+The chip compiled this data into reports that Alexander transmitted every three days through a secure channel.
+
+He timed the broadcasts to the singing sessions. Fifty voices humming in complex polyphonic patterns generated enough electromagnetic interference to mask a burst transmission, and so the community's most sacred practice became the carrier wave for the signal that would end it. The chip noted: *transmission masking optimal during group vocalization events.* No further note was generated.
 
 The reports were precise. Alphabetized. Cold. Population. Resources. Vulnerabilities. The data that a tactical planner would need to plan an operation.
 
@@ -148,21 +160,13 @@ Alexander wrote them and felt nothing the chip flagged as dissonant. He was doin
 
 But between the reports, things happened.
 
-A woman named Elif was dying. She was forty-two, a weaver whose textiles were among the most complex in the community, patterns that integrated three script traditions into designs that seemed to shift when viewed from different angles. She had an abdominal tumor that the community's salvaged medical equipment could diagnose but not treat. The Empire had the treatment. It was routine: a targeted nano-therapy that would dissolve the tumor in hours. Empire medical facilities offered it free to all chipped citizens.
+Elif was dying. The tumor was the kind the community's salvaged medical equipment could diagnose but not treat. The Empire had the treatment. It was routine: a targeted nano-therapy that would dissolve the tumor in hours. Empire medical facilities offered it free to all chipped citizens.
 
 Elif was not a chipped citizen. She was, in the Empire's classification, a "non-compliant population member." Access to Empire medical infrastructure required a chip, or at minimum a monitoring patch. Elif would die before she accepted either.
 
 Alexander watched the community care for her. They brought food. They sang. A healer, an old man who communicated entirely through hand signs and tonal vocalizations, worked with Elif for hours each day, his hands moving over her body in patterns that the chip classified as "non-evidence-based therapeutic ritual" and filed under "cultural practice, no medical efficacy."
 
 But Elif was calmer after the sessions. She ate. She wove. She was dying, and she was living, and the gap between those two facts was held by the community's attention with a grace that the chip could not model.
-
-One evening, Alexander found himself sitting with Elif while she wove. He hadn't planned to. He was mapping the settlement's eastern perimeter and her workshop was on his route, a low stone room with the door propped open by a chunk of driftwood, the air inside thick with the smell of lanolin and dyed wool. She looked up when he passed and gestured, come, sit, and he did, on a stool worn smooth by years of use.
-
-She didn't speak Empire Standard. Her language was a web of tone and gesture that the chip could follow only intermittently. But she pointed to the loom, a heavy wooden frame strung with threads of indigo and undyed cream, and showed him how the shuttle moved, how the threads interlaced, how the pattern emerged not from a pre-drawn design but from the weaver's response to what the threads were doing. She was listening to the material. Conversing with it.
-
-"Like this," she said, or the chip's best approximation of what she said. She placed Alexander's hands on the shuttle and guided them. The chip tried to model the motion, a simple repetitive action, easily optimized, but the optimization kept failing because the motion wasn't repetitive. Each pass of the shuttle was slightly different, responding to tensions in the warp that Alexander's fingers registered before his chip could intervene.
-
-He wove three rows. They were clumsy, uneven. Elif looked at them and laughed, a warm, uncomplicated sound that the chip processed as "positive social reinforcement" and Alexander experienced as something more than that, though he couldn't have said what.
 
 ---
 
@@ -173,6 +177,34 @@ He noted these things because they were data. The chip organized data. The repor
 Alexander transmitted the report and closed the channel and sat in the darkness outside the settlement and felt the chip running its post-transmission diagnostic. All systems nominal. Mission on track. Intelligence gathering progressing ahead of schedule.
 
 Everything was fine.
+
+---
+
+On the seventh night there was a fire in the communal yard, and an argument.
+
+It began the way arguments began there: sideways. An elder named Besim said the Empire's cities smelled of nothing. Adnan agreed, and went further: the chipped were sleepwalkers, the Empire a machine for making the dead walk. Around the fire, heads nodded. This contempt was the community's settled weather, comfortable as the heat on their faces.
+
+"I lived there thirty years," Alexander said. "It's not sleep."
+
+The fire popped. Faces turned. Marek Horak, the disillusioned worker, was off his script, and some operative instinct beneath the cover noted: *good. Disillusioned men defend the thing they fled; it's the deserters who love the army most.* But that was not why he said it.
+
+"I watched a man die in a plaza in Istanbul last month," he said. "Heart. His chip caught it four seconds before it happened. Strangers were kneeling beside him in optimal CPR position before his head reached the ground, because their chips put them there. Ninety seconds later he was sitting up, apologizing for the inconvenience." He looked around the fire. "Your healer is a good man. Elif is still dying."
+
+No one spoke. The fire worked at the olive wood.
+
+"Before the chip, one person in ten spent some part of their life wanting to die. The chip ended that. Not hid it. Ended it. No one in the cities you call dead lies awake wishing not to exist. You call it sleepwalking. The woman it catches at the edge of the bridge calls it morning." His own voice, and it was not the cover's voice; it was the believer's, the one that had stood in briefing rooms and meant every word. "What you've built here is beautiful. I can see that. But it fits fifty-three people, and it costs a woman her life when her body grows something a loom can't fix. The Empire fits eight billion. That's not a cage. That's an answer to the size of the world."
+
+Besim looked at him for a long time. "And the songs?" he said. "Your answer to the size of the world. What does it say when a child asks why her grandmother stopped singing?"
+
+"It says: your grandmother is alive."
+
+The old man didn't answer. Around the fire, no one answered, and the not-answering had weight, and for a moment Alexander had won. He could feel the room shift the way he'd felt rooms shift his whole career: the arithmetic landing, two hundred million saved lives pressing down on the scale against something no one could put a number to.
+
+Then, from outside the firelight, Mira said: "Elif. Sing the one about the boat."
+
+And Elif, who had been listening from her doorway, sang. Thin, unhurried, in no language Alexander knew. The community turned toward the sound the way plants turn, and the argument was not answered; it was made small, a correct column of figures left lying on the table while everyone went to the window to look at the sea.
+
+Alexander stayed by the fire. The chip noted: *cover deepened. Social standing improved. Objection raised and defended.* His hands were warm. The song went on. The arithmetic stayed where he'd left it, accurate, and the night moved past it, and he did not know what to file that under.
 
 ---
 

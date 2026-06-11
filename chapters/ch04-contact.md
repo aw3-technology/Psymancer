@@ -20,7 +20,7 @@ He stood and let the chip map what it could. Population estimate: forty to sixty
 
 Alexander descended. He kept his posture open, his pace unhurried. Marek Horak, a tired man looking for something different. He let the cover sit on him like a worn coat and walked into the settlement.
 
-They saw him coming. Of course they did. He counted the watchers: a woman on a rooftop, hanging laundry with deliberate slowness; an old man seated at the settlement's edge, carving something; two teenagers who stopped their conversation and tracked him with the alert stillness of animals assessing a newcomer. No one approached. No one called out. They watched. The chip assessed their behavior and produced: *Passive observation. Coordinated but non-verbal. Threat level: low.* The assessment was filed. The assessment was adequate.
+They saw him coming. Of course they did. He counted the watchers: a woman on a rooftop, hanging laundry with deliberate slowness; an old man seated at the settlement's edge, carving something; two teenagers who stopped their conversation and tracked him with the alert stillness of animals assessing a newcomer. No one approached. No one called out. They watched. The chip assessed their behavior and produced: *Passive observation. Coordinated but non-verbal. Threat level: low.*
 
 The old man at the edge spoke first. His Empire Standard was rough, thickly accented, but functional. "You're from the city."
 
@@ -36,7 +36,7 @@ The man looked at him for a long moment, then returned to his carving. "She'll w
 
 Alexander didn't ask who "she" was. He waited. The chip counseled patience: "rapport-building phase, allow subject to control interaction pacing." For once, the chip's recommendation and his instinct aligned. He sat on a low wall and watched the old man carve.
 
-The carving was a small figure, humanoid but not realistic. The proportions were wrong by anatomical standards, the limbs too long, the head bearing protrusions that might have been hair or horns or antennae. The chip ran aesthetic analysis: symmetry suboptimal, proportional harmony low, material quality moderate. By the chip's metrics, the object was unremarkable. The chip's assessment was filed. The chip moved on to the next object.
+The carving was a small figure, humanoid but not realistic. The proportions were wrong by anatomical standards, the limbs too long, the head bearing protrusions that might have been hair or horns or antennae. The chip ran aesthetic analysis: symmetry suboptimal, proportional harmony low, material quality moderate. By the chip's metrics, the object was unremarkable. The chip moved on to the next object. The old man's hands did not.
 
 A girl appeared at the edge of his vision. Small, thin, maybe twelve. She was carrying a book, not a tablet, a physical book, hand-bound, its cover decorated with symbols that made the chip stutter its now-familiar 0.2-second delay. She stopped a few meters away. The chip tagged her: *Juvenile female. Age estimate: 12. Threat assessment: none.*
 
@@ -154,6 +154,8 @@ Alexander's chip classified this as "non-nutritive social ritual, no information
 
 Laughter broke across the table, an argument about over-baked bread between two elders that escalated into accusations spanning decades. A child knocked over a cup of water and no one corrected her motor behavior; they simply moved their plates. An old woman reached across three people to steal an olive from Adnan's plate, and he slapped her hand away with theatrical outrage, and the gesture was the same palm-out fanning motion Alexander had seen earlier, repurposed for comedy.
 
+Mira sat among the elders, and for whole minutes at a time the strategist was nowhere visible. The olive thief accused her of hoarding the good honey for the children's writing lessons. Mira denied it. The old woman produced the jar from under the table like an advocate producing evidence, and laughter went around, and Mira, caught, held up both hands in surrender, and her laugh was loud and brief and graceless, the laugh of a woman who had been losing this particular argument to this particular elder for years and intended to keep losing it. The chip noted: *social cohesion event, leadership status unaffected.* Alexander noted that her face, laughing, was ten years younger, and that she let everyone see it.
+
 The chip cataloged caloric content, protein ratios, fiber intake. The meal was nutritionally adequate. The data said nothing about why it tasted like belonging.
 
 Alexander cataloged everything. The chip tagged each observation with coordinates, significance ratings, potential intelligence value. Their writing, visible on walls, on textiles, carved into furniture and the lintels of doorways, used characters from multiple traditions: Nsibidi, Chinese radical structures, something that looked like a simplified hieroglyphic system, and forms he couldn't trace to any known source.
@@ -224,8 +226,8 @@ She stood up, tucked the book under her arm, and walked back toward the settleme
 
 Alexander watched her go. The chip cataloged her retreating figure: height 148 centimeters, weight approximately 38 kilograms, gait pattern indicating high physical fitness and confidence. Threat assessment: none.
 
-The chip was thorough. The chip was accurate. The chip saw a child walking away.
+The chip saw a child walking away.
 
-Alexander saw something the chip didn't have a category for. He saw it just for a moment, a flicker at the edge of his processed, optimized, perfectly clear perception. Then the chip caught up and the flicker was gone and the child was data again.
+Alexander saw the ink on her ear, a gray-black smudge where she had pushed her hair back mid-composition and forgotten it, and the way she walked with the book hugged to her chest, leaning slightly forward, as if into a wind that wasn't there, as if the future were a hill she had already decided to climb. Then the chip caught up, and the child was data again.
 
 He sat by the sea and the waves were 0.3 meters high and the temperature was fourteen degrees and the stars were points of light at measured distances and everything was as clear and precise and empty as a perfectly alphabetized room.

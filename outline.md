@@ -1,5 +1,16 @@
 # PSYMANCER: Revised Outline
 
+> **Canonical structure:** see `manuscript-order.md` for the final chapter order,
+> including the two added POV chapters (Ch. 15 "The Keeper" — Mira; Ch. 19 "The
+> Architect" — Sophia), the five interludes and their placements, and the part-title
+> pages. Chapter numbers below are the original working numbers.
+>
+> **Title note:** "Psymancer" is a working title flagged for reconsideration — it
+> promises pulp sorcery for a literary novel about linguistic consciousness, and the
+> word appears nowhere in the text. Candidates from inside the book: *The Breath
+> Before the Word*, *The Singing House*, *Meaningless Vocalization Pattern*,
+> *Surface Remediation*.
+
 ## Premise
 
 In a near-future world, the Empire has achieved linguistic unity through neural chips that enforce phonetic consciousness — eliminating tonal, gestural, and logographic modes of thought. Alexander Vasek, an elite intelligence operative and true believer, infiltrates a community preserving ancient embodied language practices. When his mission leads to the death of a child and the capture of resistance leader Mira Adaeze, his chip begins to malfunction — and with it, his certainty. As the Empire races toward Convergence (the networking of all chips into a single unified consciousness), Alexander must confront the architect of the system, the grief that built it, and the question of whether liberation is possible without becoming what you're fighting.
@@ -96,7 +107,7 @@ Sophia waiting alone in the central chamber. Convergence at 94%. The twist: she 
 The climax. Kaito, dying, interfaces with the system — his broken multi-modal consciousness creates chaos. Speaks his last words in every language he knows, all at once. System staggers. Alexander and Mira act together: he translates chip architecture, she introduces the counter-frequency — not a weapon but a question: "What are you not seeing? What have you excluded? What was breath before it became word?" The system encounters the awareness of its own limitation. Chips worldwide pause. Billions experience a moment of pure silence. Then chips resume, changed. The question cannot be unasked. Sophia: "It won't hold." Alexander: "But now they know there is one."
 
 ### Chapter 22 — After
-Months later. Empire destabilized, not destroyed. Convergence delayed indefinitely. Alexander visits Lenka — she still doesn't remember, but hums along when he sings. Sophia has disappeared; her files reveal a new project integrating phonetic and logographic architectures. Her note: "The flaw was always the point." Mira rebuilds her community differently — accepting people with chips, developing hybrid practices. Final conversation with Alexander: "I don't forgive you. But I'm glad you exist."
+Months later. Empire destabilized, not destroyed. Convergence delayed indefinitely; the pause carried a death toll (eleven thousand) that the denouement reckons with. Alexander visits Lenka — she still doesn't remember, but hums one note of the melody. Sophia has disappeared; rumors of her hybrid-architecture files persist. (Her letter to Alexander, written in "The Architect," was never sent — it lies with Naomi's drawings; "The flaw was always the point" is spoken aloud in the climax instead.) Mira rebuilds her community differently — accepting people with chips, developing hybrid practices. Final conversation with Alexander: "I don't forgive you. But I'm glad you exist."
 
 ### Epilogue — Breath
 Alexander teaching a child to write in a hybrid form — phonetic precision, logographic depth, tonal resonance, gestural embodiment. The child draws a character meaning something like "the silence between." The chip stirs, categorizes, and he lets it. Not master, not servant, not enemy. A scar that has become a feature. Final line: He breathes. Between the breath and the word, for an instant, everything is.
@@ -109,4 +120,4 @@ Alexander teaching a child to write in a hybrid form — phonetic precision, log
 - **Part Two:** Fracturing. Sensory intrusions. Corrected metaphors. The chip's control becomes visible.
 - **Part Three:** Dual voices in single paragraphs. Disorientation. White space where neither voice can speak.
 - **Part Four:** Integrated third voice. Precise AND sensory. Still imperfect. The prose is the resolution.
-- **NO thematic labels.** No "Threshold Symbol:" annotations. Hebrew letters woven organically as epigraphs where natural, never imposed.
+- **NO thematic labels.** No "Threshold Symbol:" annotations. No epigraphs; the five documentary interludes (field assessment, Dara's journal, chip log, intercepted transmission, Kaito's notes) carry the apparatus function instead.

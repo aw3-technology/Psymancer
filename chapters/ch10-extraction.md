@@ -50,11 +50,13 @@ Jammed. Rusted. The mechanism hadn't been used in months.
 
 He pulled harder. The chip enhanced his grip strength, optimized his leverage, calculated the force required. His arms burned. The shutter didn't move.
 
-Mira placed her hands on the release next to his. She closed her eyes, and Alexander felt, through his chip, through the Phase Three substrate, a vibration. Not from the mechanism. From Mira. A tonal frequency that traveled through her hands into the metal, a resonance that found the rust's crystalline structure and made it sing. Vibrate. Loosen.
+Mira scanned the dock, pulled a pry bar from the wall rack, and wedged it into the release lever. But she didn't heave on it. She struck the mechanism's housing with the bar's heel, once, twice, a run of sharp raps in a deliberate rhythm, her ear close to the metal, adjusting the cadence the way he'd heard her adjust a tone in the singing house, hunting the pitch at which the housing answered. Rust is a weld of crystals; shock, at the right rhythm, is a chisel. The chip had the engineering tables for percussive loosening of corroded mechanisms somewhere in its files and had not thought to offer them. Her third sequence ended with both their weights on the bar.
 
 The shutter released. Not smoothly, with a screech that the chip estimated was audible at 200 meters. They were loud. They were sloppy. They were out.
 
 The November air hit Alexander's face and the chip measured it and his body felt it and the two experiences existed side by side, the data and the cold, and for once the data seemed like the less real of the two.
+
+A perimeter guard rounded the structure's corner forty meters ahead, drawn by the screech. The chip painted him instantly: standard model, rifle slung, scan pattern Delta-Six. And Alexander knew Delta-Six. Had walked it himself in his first year. Knew the rhythm of its head-turns and the 1.2 seconds of blind transit as the visual sweep crossed the pillar line. He took Mira's wrist and held her flat against a container through one sweep, moved her through the blind interval, froze again. The guard's chip was watching for running, for heat in motion; it had no category for two bodies moving only inside its own blind spots, in time with its own choreography, conducted by a man who had helped write the score. The guard passed within nine meters. His report would say the dock was clear, and his report would be accurate.
 
 They ran. Not gracefully, two people in facility clothing sprinting across a parking structure at three in the morning, one of them still shaking off the effects of neural dampeners, the other fighting a chip that was generating increasingly urgent — *return to the facility* — stop — *unauthorized departure constitutes* — comply — *COMPLY* —
 
@@ -69,6 +71,8 @@ The chip's tactical overlay showed the security response converging: units from 
 They reached the van. Mira climbed into the passenger seat. Alexander started the engine, electric, quiet, a small mercy. The chip's navigation system offered a route to the nearest Empire facility, because the chip was still the chip and its purpose was still compliance and it would offer compliance until the architecture burned.
 
 Alexander ignored the route and drove toward the city's edge.
+
+The chip, denied the route, changed tactics. Nausea arrived at ninety kilometers an hour, the same low tide it had used against his planning, rising now in waves timed to the van's acceleration. Twice he had to swallow against his own gag reflex while holding the wheel through a curve, eyes watering, the road doubling. The chip's medical module offered antiemetics contingent on *cessation of unauthorized activity.* Conditional medicine. The system negotiating with his stomach. He drove. He swallowed. The dark fields ran by.
 
 Behind them, the facility's lights blazed. Ahead, the Swiss night was dark and cold and unmarked by any sign the chip wanted to follow.
 
@@ -97,6 +101,10 @@ Her elbow pressed against his throat. Not hard enough to damage. Hard enough to 
 "Say her name."
 
 "Dara."
+
+"Again."
+
+"Dara. I wrote her name in an assessment before I ever saw her face." The confession came up like something dislodged. "Satellite intercepts. Anomalous cognitive profile. I flagged her for the Empire's assessment program — a flag that would have taken her from you alive and given her to a laboratory. I knew her name before I met her, and the first thing I did with it was file it."
 
 Mira held the position. The van rolled slowly, the road straight enough to forgive their drifting. Alexander's throat was against her elbow and his eyes were open and in them was nothing the chip had put there, no calculated expression, no optimized affect, no mask. In his eyes was the raw, unprocessed fact of what he was: a man who had done terrible things and was only now beginning to understand what terrible meant.
 
@@ -190,7 +198,7 @@ When he finished, he set the device on the table and spoke to Mira in the tonal 
 
 The words landed in the kitchen like a stone dropped into still water. Alexander felt their weight. He had known about the broadcasting in theory; Kaito had mentioned it. Hearing it stated as plain fact, in a kitchen that smelled of woodsmoke and dried herbs, by a man whose life he was endangering by sitting in a chair, made the theory into something with edges.
 
-"I know what he is," Mira said. "I also know what he carries. He's the only Phase Three operative who has defected. The only person alive who can interface with the system from inside."
+"I know what he is," Mira said. "I also know what he carries. Scan it again if you doubt me. You won't have seen its like before."
 
 "Others have brought me weapons that doubled as threats. I've survived by knowing when the weapon isn't worth the risk."
 
@@ -226,4 +234,4 @@ Alexander noticed.
 
 Mira went into the farmhouse. Alexander went to the barn. He lay on straw that smelled of animals and earth and looked up at the roof timbers and the chip counted them (fourteen, spaced at 0.6-meter intervals) and the counting meant nothing and the straw was warm and rough and real under his body. Outside, the lock clicked. The old man's footsteps retreated across gravel.
 
-Alexander closed his eyes. The chip's narration faded to a murmur and he slept, and in his sleep his hand moved, drawing characters on the straw, drawing words in a language that the barn and the goat and the old dog didn't need a chip to understand.
+Alexander closed his eyes. The chip's narration faded to a murmur and he slept, deeply, in a locked barn that smelled of animals and earth, watched through the dark by a dog that understood threat without needing a word for it, and for the first time since the singing house, no one in his skull said anything at all.

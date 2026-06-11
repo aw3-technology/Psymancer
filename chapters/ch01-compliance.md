@@ -1,3 +1,5 @@
+# PART ONE: SIGNAL
+
 # Chapter 1: Compliance
 
 The village had no name the system recognized.
@@ -12,11 +14,9 @@ Alexander Vasek stood on the eastern ridge and pulled up the topographic overlay
 
 Dawn in the Carpathian mountains. The air had a quality the chip registered as "low particulate, twelve degrees, humidity forty-one percent." The trees were beech and spruce, the species composition shifting with altitude in patterns the chip mapped with forestry-database precision. Below, a stream cut through the valley's floor; the chip registered its flow rate, its mineral content, the angle at which it caught the early light. The sky was the color the system called sky-blue, hex value #87CEEB. Everything was measured. Everything was known. Alexander breathed in the accurate, well-cataloged morning and felt the particular satisfaction of a job about to be done well.
 
-He had studied the settlement's file on the train from Vienna. Sixty-three people, mostly Romani, with a sprinkling of ethnic Slovaks and Hungarians who had drifted to the margins after refusing harmonization. They maintained a writing system, what the chip's intelligence summary called a "syncretic symbolic practice," that combined Romani folk glyphs with Carpathian folk signs and elements the database could not source. They sang. The satellite audio intercepts had captured fragments: polyphonic, tonal, the kind of sound the chip's classification algorithms labeled as "sub-linguistic group vocalization" and dismissed.
+He had studied the settlement's file on the train from Vienna. Three weeks of passive surveillance, pattern analysis, communication intercepts rendered into phonetic transcription. Sixty-three people, mostly Romani, with a sprinkling of ethnic Slovaks and Hungarians who had drifted to the margins after refusing harmonization. They spoke a hybrid dialect, Romani substrate with tonal modifications and gestural supplements that the translation algorithms flagged as "sub-linguistic noise." They maintained a writing system that combined Romani folk glyphs with Carpathian folk signs and something older that the database could not source; the chip tagged it: *origin unknown, pre-phonetic, scheduled for cataloging and removal.* They sang. The satellite audio intercepts had captured fragments: polyphonic, tonal, the kind of sound the classification algorithms labeled "sub-linguistic group vocalization" and dismissed.
 
 Alexander had read the file and the file was complete and the completeness left no room for questions. Sixty-three people. 7.2 on the Kessler scale. A morning's work.
-
-They had been watching the settlement for three weeks. Passive surveillance, pattern analysis, communication intercepts rendered into phonetic transcription. The community spoke a hybrid dialect, Romani substrate with tonal modifications and gestural supplements that the Empire's translation algorithms flagged as "sub-linguistic noise." They used a writing system derived from a mix of Romani symbols, Carpathian folk glyphs, and something older that the database could not source. The chip tagged it: *origin unknown, pre-phonetic, scheduled for cataloging and removal.*
 
 Alexander was good at removal.
 
@@ -44,7 +44,7 @@ The chip translated this as: *Subject expresses dissatisfaction with communicati
 
 He smiled. It was his operational smile, warm, specific, calibrated. "We can discuss your concerns during the transition process. For now, I need to ask that everyone gather in the central area. My colleagues will be conducting a routine inventory of written and symbolic materials."
 
-The inventory. That was the word they used. Not confiscation, not seizure. Inventory.
+The inventory. Alexander had proposed the word himself, in the same manual revision that gave the Division "cognitive compliance facilitation." Not confiscation. Not seizure. Inventory. Precision was a courtesy the Empire extended even to its language.
 
 Alexander supervised as his archival specialists moved through the homes. They were thorough and respectful: gloves for handling materials, careful labeling, padded containers for fragile items. The Empire was not cruel. Cruelty was inefficient. The items were cataloged with genuine scholarly care: hand-bound books of symbols, carved wooden tablets, painted stones, woven textiles with logographic patterns integrated into the fabric itself. Beautiful objects. Alexander could appreciate beauty in the abstract. The chip helped with that; it could identify aesthetic properties (symmetry, color harmony, proportional relationships) without the disorienting emotional noise that unmediated perception attached to beautiful things.
 
@@ -82,7 +82,7 @@ The chip offered no recommended response. A gap of 0.3 seconds.
 
 She allowed the operatives to apply the patch. As they pressed it to her temple, she began to sing.
 
-The sound was not what the chip expected. The chip had extensive audio libraries — every known musical tradition, categorized by culture, period, and harmonic structure. It ran the woman's voice against the database and found: nothing. Not because the voice was outside the database's range. Because the voice was outside the database's logic. The sound did not progress from note to note the way phonetic music progressed, each tone a discrete unit connected to the next by intervals the ear could measure. This sound was continuous, a single exhalation that contained within it a landscape of pitch and texture, the way a river contains within its single flowing all the stones and turns and depths of its bed.
+The sound was not what the chip expected. The chip had extensive audio libraries — every known musical tradition, categorized by culture, period, and harmonic structure. It ran the woman's voice against the database and found: nothing. Not because the voice was outside the database's range. Because the voice was outside the database's logic. The sound did not progress from note to note the way music progressed, each tone a discrete unit connected to the next by intervals the ear could measure. It did not progress at all. The segmentation algorithms returned a single continuous event that could not be divided into parts, and an event that could not be divided into parts could not be transcribed, and what could not be transcribed did not, for processing purposes, exist.
 
 The chip translated the output: *Vocalization pattern detected. Tonal, non-phonetic. No semantic content identified. Classification: meaningless vocalization pattern. Logging for archive.*
 
@@ -92,11 +92,11 @@ The other community members had been watching. Most were seated now, patches app
 
 Alexander's hand twitched again, harder this time, his fingers curling into a shape he didn't recognize, as if reaching for something, or trying to write something in the air. The chip suppressed the motor response and logged it: *Anomalous motor pattern. Possible integration artifact from extended field exposure. Recommend post-operation neurological review.*
 
-The woman's voice carried through the settlement. Low-frequency, tonally irregular, each note sliding into the next without the discrete intervals that phonetic music required. She was singing with her whole body, not just her vocal cords but her posture, her hands pressed against the operatives' arms, her feet planted on the earth she would not stand on again as herself. The sound was a shape and the shape was a room and the room held everything the Empire's inventory could not catalog: the memory of the valley's fog, the weight of three generations of survival in the fold of the mountains, the specific quality of morning light on beech leaves in autumn, the names of children and the names of the dead and the names that existed between names, in the silences, in the breath.
+The woman's voice carried through the settlement. Low-frequency, tonally irregular, each note sliding into the next without the discrete intervals the transcription protocols required. She was singing with her whole body, not just her vocal cords but her posture, her hands pressed against the operatives' arms, her feet planted on the earth she would not stand on again as herself.
 
-The chip's audio monitoring logged the output as a sustained non-phonetic vocalization event: no words detected, no parsable structure, no informational content. Duration: forty seconds. The chip categorized it and moved on.
+The chip sampled the sound at forty-eight kilohertz, lossless. Every frequency was captured. Every overtone was preserved. It logged the output as a sustained non-phonetic vocalization event: no words detected, no parsable structure, no informational content. Duration: forty seconds. The recording was complete. The file was archived. The chip categorized it and moved on.
 
-Then the sedative in the monitoring patch activated. The vocalization ceased mid-phrase, the voice simply stopping, the way a river stops when dammed, not ending but being ended. The operatives caught the woman's body and lowered it to the ground. Her face was still arranged in the shape the song had made it. The silence after the voice was the kind of silence that is not the absence of sound but the presence of the sound's ghost, occupying the space where the voice had been with a negative pressure the chip registered as nothing at all.
+Then the sedative in the monitoring patch activated. The vocalization ceased mid-phrase, the voice simply stopping. The operatives caught the woman's body and lowered it to the ground. Her face was still arranged in the shape the song had made it. The silence that followed registered, per the chip's audio monitoring, as nothing at all.
 
 Standard procedure. The chip logged the event and updated the compliance timeline.
 
@@ -108,7 +108,7 @@ It was, by every metric the system provided, a kindness.
 
 Alexander stood at the settlement's center and surveyed the completion. The homes had been tagged for remediation, each doorway marked with the small adhesive sensor that would guide the cultural sanitation teams who arrived next week. The carved wall he'd photographed would be ground smooth. The woven textiles in their padded containers would be transported to a repository in Prague, where they would be studied with genuine care and preserved with genuine skill and would never again be held by the hands that made them or read by the eyes that knew how to read them.
 
-The morning fog had burned off. The valley was clear now, visible from above, legible to the satellite systems, no longer hidden in the cupped hand of its geography. The stream caught the midday sun and the chip measured the angle of refraction and the measurement was correct and the beauty the measurement described was someone else's problem.
+The morning fog had burned off. The valley was clear now, visible from above, legible to the satellite systems, no longer hidden in the cupped hand of its geography. The stream caught the midday sun and the chip measured the angle of refraction and the measurement was correct.
 
 A child was crying in one of the transport vehicles. The sound was muffled by the armored hull but his chip's audio processing picked it up: a girl, approximately six, elevated cortisol levels consistent with separation distress. The wellness algorithm estimated she would calm within twenty minutes of chip installation. The projection was almost certainly accurate. Alexander's own installation, at ten, had taken seventeen minutes to achieve emotional stabilization. The girl was six. She would be stable in less time. She would not remember the instability.
 
@@ -144,4 +144,4 @@ Alexander Vasek looked at the mountains and felt the clean, quiet satisfaction o
 
 His hand, resting on his thigh, twitched once.
 
-He did not notice.
+The chip logged it. He did not.

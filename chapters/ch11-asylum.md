@@ -36,6 +36,8 @@ A woman, Nkechi, a Nigerian engineer who maintained the cell's communications, h
 
 Graaf pivoted, gesturing at the console blinking behind Nkechi. "Three percent. Two hundred and forty million people, Nkechi. Communities across six continents. Some have never seen an Empire soldier. Some don't even know they're resisting; they're just living the way they always lived. If Convergence activates, every one of them gets absorbed into a consciousness they never consented to. That's not assimilation. That's extinction."
 
+Alexander's attention sharpened. *Convergence.* Inside the Empire, the word lived behind inner-circle clearances; he had heard it spoken aloud exactly once, by Sophia, over cooling tea. Out here it was being argued over in a warehouse by people the Empire classified as illiterate. He filed the discrepancy: either the resistance's intelligence ran deeper than the Division believed, or the secret was a secret the way an avalanche is a secret, known to everyone standing below it.
+
 Mira cut in from the edge: "Two hundred and forty million who can't coordinate, can't communicate safely, and disagree about everything, as this room demonstrates. The unchipped aren't a movement. They're a demographic. Our job is to make them a movement before the Empire makes them extinct. Your plan makes them casualties along with everyone else."
 
 In the evenings, after the arguments exhausted themselves, Nkechi played recordings on a salvaged music player. Not resistance anthems; lullabies. Work songs. Wedding music from the pre-chip world. The three children fell asleep to a Yoruba lullaby that Nkechi hummed along with, her solder-blackened fingers keeping time on her knee. The adults sat in the concrete dark and listened, and the listening was a form of prayer, the kind that doesn't ask for anything but the continuation of the asking.
@@ -60,9 +62,15 @@ Nkechi reached across and put a hand on Lena's arm. "She's right about the withd
 
 Mira broke the stalemate with process, not rhetoric. "Quick count," she said. "Evacuate and scatter versus hold and fight."
 
+Graaf stopped pacing. "You don't call counts here, Adaeze. You arrived two days ago. With *that* behind you." A hand toward the chalk square.
+
+"Sixteen cells route their traffic through this hub on protocols I wrote," Mira said, without heat. "Ask Nkechi whose ciphers she solders into that console. I've been carrying this network's weight since before you lost your professorship. There's no rank here; I don't outrank you. But I've earned the count." She looked around the room. "Anyone object?"
+
+No one objected. Graaf resumed pacing, three steps left, three steps right, a man filing a grievance for later.
+
 The cell had a voting gesture the chip hadn't seen before: two fingers to the collarbone for scatter; a closed fist over the sternum for hold. People chose. Fast. No speeches. The parents voted scatter almost to a person. Graaf's knot at the east wall raised fists in a tight cluster. Nkechi looked at the children asleep under the woven textile and touched her collarbone.
 
-"Scatter by dawn," Mira said. "Operational core stays within two hours' radius. We keep the comms hub. We don't burn the archive."
+"We scatter when the southern corridor opens. Nkechi says three days," Mira said. "Operational core stays within two hours' radius. We keep the comms hub. We don't burn the archive."
 
 "We can't protect both the archive and the families," Graaf said. "Pick one."
 
@@ -80,7 +88,7 @@ She looked at Alexander. "For that, we need someone who knows the fence from ins
 
 The room's attention shifted. Thirty pairs of eyes on the man in the chalk-bounded corner. Thirty people who had lost homes, families, languages, children to the system this man had served.
 
-The man who had carved toys, Adnan, from the settlement, was there. He had been processed with a temporary compliance chip that the resistance had managed to disable, leaving him in a state of neural confusion, his speech slurred, his movements uncertain. He looked at Alexander and the compliance chip's residue made his face twitch.
+The man who had carved toys, Adnan, from the settlement, was there. The transport carrying him and five others to a harmonization center had been hit by a resistance cell outside Antalya in the week after the raid, one of the network's few clean victories that season. He had been processed with a temporary compliance chip that the resistance had managed to disable, leaving him in a state of neural confusion, his speech slurred, his movements uncertain. He looked at Alexander and the compliance chip's residue made his face twitch.
 
 "You," Adnan said. The word was thick, labored. "You ate with us. You sat with Elif while she wove." A pause. The twitching worsened. "Elif is dead. The Empire let her die. And Dara—" His voice broke. He pressed his fist against his mouth and held it there. When he lowered it, his chin was wet. "She used to bring me figs from the garden. Every morning. She said my carvings got better when I ate figs." He looked at Alexander with the compliance chip's distortion twisting his grief into something grotesque. "She was twelve."
 
@@ -90,7 +98,7 @@ Alexander said nothing. The chip offered a response: *Expression of regret, ackn
 
 "Sorry." Adnan laughed, a broken sound, the compliance chip's residue distorting what should have been bitter amusement into a grimace. "He's sorry."
 
-An old woman, one of the settlement's elders who had survived the raid, the woman with the gray braids who had pressed her palm to Dara's chest before the ceremony, walked to Alexander's chalk boundary. Her temple was still marked by the adhesive residue of a monitoring patch. She looked down at him. She spat.
+An old woman, one of the settlement's elders rescued from the same transport, walked to Alexander's chalk boundary. Dara's grandmother: the woman with the gray braids who had braided her granddaughter's hair on the morning of the ceremony and pressed a palm to her chest before the drawing began. Her temple was still marked by the adhesive residue of a monitoring patch. She looked down at him. She spat.
 
 The saliva landed on his knee. Warm. Human. The chip cataloged it: *Biological fluid. No pathogenic indicators. Social significance: expression of contempt.*
 
@@ -122,7 +130,7 @@ Then another voice entered the room. Broken, multi-modal, singing in three regis
 
 Kaito.
 
-He had followed them. Alexander would piece together the how later: Kaito had tracked the Phase Three chip's passive signal, the same low-level transmission the chip used to maintain contact with the Empire's network. Kaito had built the chip's architecture. He knew its frequencies the way a locksmith knows tumblers. He had followed the signal from the facility's sub-level through the safe house chain, a damaged man navigating by the hum of his own creation, invisible to the resistance contacts who had moved Alexander and Mira because no one was looking for a lone figure who spoke in three languages and smelled of moss.
+He had followed them. Alexander would piece together the how later: Kaito had tracked the Phase Three chip's passive signal, the same low-level transmission the chip used to maintain contact with the Empire's network. Kaito had built the chip's architecture. He knew its frequencies the way a locksmith knows tumblers. The substrate harmonic was too faint and too strange for any Division receiver to triangulate, unlisted in every signals catalog, audible only to the man who had written it; he had followed it from the facility's sub-level through the safe house chain, a damaged man navigating by the hum of his own creation, invisible to the resistance contacts who had moved Alexander and Mira because no one was looking for a lone figure who spoke in three languages and smelled of moss.
 
 He appeared in the warehouse doorway looking worse than the last time: thinner, more damaged, his movements more erratic. He carried a device, larger than the jammer he'd given Alexander, cobbled from the same salvaged components and organic matter.
 
@@ -144,7 +152,21 @@ Mira answered: "Because he's the only interface we have. Because his chip just s
 
 It was not a satisfying answer. It was the only one available.
 
+It was Nkechi who asked the question underneath it, her hands packing the console with the speed of long practice. "His chip has been transmitting since before he got here. Passive signal. So why did it need a beacon? If the Empire hears him breathe, they already know where we are. Why aren't they here?"
+
+Kaito answered from the floor, where he was coaxing his burned jammer back toward life. "Different channels. The passive feed is deep telemetry: what the chip processes. Neural patterns. Biometrics. The inside of his skull. It is not a map. Phase Three telemetry carries no position; Kessler built it that way, private, routed to her own systems, off the Division's grid entirely. A diary. Not a tracker." His hands kept working. "The beacon is the tracker. The Division's channel: loud, positional, an emergency flare. That one we jam. The diary," a shrug that traveled his whole body, "the diary she is always reading. Assume the Director knows what he feels. Not where he sleeps."
+
+The room absorbed this with the expression of people who had been told the wolf could hear their heartbeats but not find the den. It was not comfort. It was the available kind.
+
 They moved. The warehouse was abandoned, the chalk square erased, the children carried out into the night. Alexander walked with them, surrounded by people who hated him, monitored by people who needed him, his chip sulking in the aftermath of its interrupted betrayal like a weapon that had misfired.
+
+Lena fell into step beside him for part of the march. She didn't speak for a kilometer. Then: "They look at you and see the Empire. I look at you and see the thing I lost." She tapped the pink scar at her temple. "Yours still works. The math in real time. The certainty. Do you know what you have?"
+
+"I'm learning what it costs."
+
+"Spare me." She walked faster, then stopped and turned. "When you people break the network, or fix it, or whatever this is, someone has to think about the ones like me. The ones who were good inside it. There are more of us than there are of you." She gestured at the dark column moving ahead of them. "Remember that when you're deciding things."
+
+She left him with it. The chip classified the exchange as *hostile, low threat.* It was the least hostile conversation he'd had in three days.
 
 Kaito walked beside him. The damaged man hummed quietly, the sound creating a small zone of interference around them both, a portable pocket of privacy where the chip's monitoring was softened and Alexander's thoughts were, for moments at a time, his own.
 

@@ -4,6 +4,8 @@ Guilt was a poor strategist. Alexander knew this. Guilt was reactive, unfocused,
 
 Alexander was not going loud. He was going quiet. He was also not scheduling a recalibration, which meant he was either developing genuine moral consciousness or malfunctioning. The distinction, he was learning, was less clear than the Empire's diagnostic manual suggested.
 
+It took him until the second night to notice whose thoughts these were. The balance, the wry distance, the manageable irony: the chip was composing his self-understanding, feeding him the aphorisms one by one. *Guilt is a poor strategist* was the system's sentence, not his. The system would much rather he critique his guilt than obey it.
+
 On the second afternoon, before the thinking became a plan, Alexander walked through Zurich.
 
 The chip narrated the city with its usual thoroughness: population density, traffic patterns, air quality. Zurich was the Empire's administrative heart — Sophia's city. The streets were clean. Citizens moved with synchronized grace. In a park beside the Limmat, children played, their games chip-organized and calibrated. A girl, perhaps seven, hung from a climbing frame with the fluid precision of a child enhanced since birth. Her laughter was bright and evenly modulated.
@@ -110,21 +112,25 @@ A man sat on the floor amid a nest of salvaged technology: monitors, wiring, dis
 
 The man looked up. His eyes were bright and damaged, the gaze of someone who had seen too much through too many channels and could no longer fully sort the input. His chip, Alexander could see the scar at the base of his skull where an implant had been and was no longer, was gone. Removed. The neural damage was visible in his movements: uncoordinated, spastic, the body of a man whose central processing had been violently excised.
 
-"You heard," the man said. His English was fractured, interrupted by Mandarin syllables and hand gestures and hummed frequencies. "You, *nǐ tīng dào le*, heard the," he drew a character in the air with his finger, a shape that hung for a moment in the dust motes before dissolving, "the song. In the door."
+"You heard," the man said. His English was fractured, interrupted by Mandarin syllables and hand gestures and hummed frequencies. "You heard the," he drew a character in the air with his finger, a shape that hung for a moment in the dust motes before dissolving, "the 歌. The song. In the door."
 
 "Who are you?"
 
-The man laughed. The laugh was in three registers simultaneously. "Kaito. I was, *wǒ shì*, I built," he held up a piece of disassembled chip circuitry and turned it in the light. "This. I built this. The architecture. The," a hummed note, sustained, that made Alexander's chest vibrate, "the cage. I built the cage."
+The man laughed. The laugh was in three registers simultaneously. "Kaito. I built," he held up a piece of disassembled chip circuitry and turned it in the light. "This. I built this. The architecture. The," a hummed note, sustained, that made Alexander's chest vibrate, "the cage. I built the cage."
 
 "You're a chip engineer."
 
 "Was. Was. Now I'm," Kaito's hands moved in a gesture that Alexander's chip tried to classify as sign language and couldn't, it was too fluid, too multi-dimensional, incorporating movement in planes that standard signing didn't use. "Now I'm what happens when you take the cage off a bird that's forgotten how to fly. The wings work but the sky doesn't make sense. *Sora ga wakaranai.* The sky, not, you see?"
 
+"How are you here?" The sub-level was Kessler-restricted. The man had food, power, equipment, years of accumulation. "The system sweeps every level. You can't be invisible."
+
+"Not invisible." Kaito's grin was sudden and terrible. "Kept. The Director knows. I'm in her files: *failed research subject, residual observational value.*" He tapped the scar at the base of his skull. "She wants to see what happens to a bird outside the cage. So: food in the service dumbwaiter. Power that doesn't get cut. A door that's locked to everyone and not always locked to me. I'm not hiding from her, operative. I'm the experiment she doesn't write down."
+
 Alexander didn't see. But his chip, the Phase Three substrate, the deep layer, was processing Kaito's multi-modal output with an intensity that the surface architecture wasn't generating. The chip was listening. Not to the words, which were fragments. To the *pattern*, the way the fragments interlocked, the way each modality (speech, gesture, tone, drawn character) carried a piece of meaning that became whole only when all channels were active simultaneously.
 
 Kaito saw him processing. The engineer's eyes sharpened, recognizing the Phase Three substrate's response, reading it the way a mechanic reads engine vibration.
 
-"You want to understand what it can do. What it can't." Not a question. A diagnosis. Something in his posture shifted, the damaged man receding, the engineer surfacing. When Kaito talked about the architecture, his English steadied. The fragments assembled into longer, cleaner runs, as if the technical framework gave his shattered processing something to organize around.
+"You want to understand what it can do. What it can't." Not a question. A diagnosis. Something in his posture shifted, the damaged man receding, the engineer surfacing.
 
 "The chip has one rule. One law. Everything that enters must become one channel. One signal. Sequential. Phonetic." He drew a straight line in the air with his finger. "The chip processes the world the way alphabetic writing processes language: one sound, then the next, then the next. A line. Very fast, very precise, very linear."
 
@@ -156,15 +162,21 @@ Kaito looked at him. Through the bright damage of his eyes, something sharp emer
 
 "Why?"
 
-Alexander opened his mouth. The chip offered reasons: tactical advantage, intelligence value, operational flexibility. He rejected them. The chip offered emotional reasons: guilt, grief, the need for atonement. He rejected those too. They were true but they were not the truth.
+Alexander opened his mouth. The chip offered reasons: tactical advantage, intelligence value, operational flexibility. He rejected them.
 
 "Because I hear my mother's song," he said.
 
-He did not know where the words came from. They arrived from below the chip, from below the guilt, from the place where his hand drew characters in the dark. They were not a reason. They were a fact, the fundamental fact of his existence, the one the chip had been organized around like a city built around a wound.
+The words arrived from below the chip, and they felt true, and they felt like absolution, and Kaito looked at him the way an engineer looks at a beautiful specification that will not compile.
+
+"Pretty," Kaito said. "*Kirei.* Why really?"
+
+Alexander stood in the dark with the question. The song was true. The song was also the version of the truth that made him a boy instead of an operative, a victim instead of an author. Kaito's damaged eyes did not blink. The chip offered nothing. What remained, when the pretty answer was taken away, was the thing he had not been saying for nine days.
+
+"Because I wrote the reports," he said. "I mapped the path. I flagged her community for processing. There is a girl who is dead because my work was excellent, and the woman upstairs is going to die the same way, by my hand, at one remove, and I can't—" His voice did something the chip hadn't authorized. "I put her in that cell. I cannot live in the room with that. That's the truth. The song is just what the truth sounds like when it lets me sleep."
 
 Kaito stared at him. Then the damaged man smiled, a broken, luminous smile that used every muscle in his face and most of them incorrectly.
 
-"The gate is not a gate," Kaito said. "The gate is a song you already know."
+"Both true," he said. "The debt and the song. Carry one in each hand. The gate is not a gate. The gate is a song you already know."
 
 He stood, unsteadily, and moved to a console, a jury-rigged interface connected to what appeared to be the facility's auxiliary network. His hands moved over it with the dissonant grace of a concert pianist with nerve damage: the skill was there, the execution was shattered, but the intention came through.
 
@@ -194,13 +206,9 @@ Alexander turned to leave. At the door, Kaito's voice stopped him, all three reg
 
 "It means stop thinking, operative. Put your hand on the panel and let your hand remember."
 
-Alexander stared at him. The instruction was absurd. The cell's biometric lock required a specific authorization code, a numeric sequence, encrypted, unique to Director Kessler. His hand, no matter what it remembered, could not produce a number it had never learned.
+Alexander stared at him. The objection was rational: the cell was Kessler-locked, a personal authorization, an encrypted sequence his hand had never learned.
 
-But even as the rational objection formed, another part of his mind was already assembling a different logic. The Phase Three substrate was Sophia's creation, designed by her, built by her, carrying her architectural fingerprints in every layer of its neural integration. And the biometric panel was also Sophia's creation; the Kessler-lock protocol bore her name because she had engineered it. The same mind had built both the lock and the key in his skull. If the substrate carried deep patterns from its maker, authorization signatures woven into the architecture the way a potter's thumbprint persists in fired clay, then the panel might recognize not Alexander's clearance but Sophia's own.
-
-The thought was unsettling in its implications. It meant either Sophia had left a backdoor in his chip deliberately, or the substrate's connection to its maker was deeper than anyone had intended. Neither explanation was comforting. Both were more plausible than a song that opened doors.
-
-And yet the Phase Three substrate was humming. And Alexander's hand was warm. And somewhere in his body, below the chip, below the guilt, below everything the Empire had built and everything it had erased, a seven-year-old boy was listening to his mother sing, and the singing and the substrate's hum were harmonizing in a way that felt less like coincidence and more like design.
+But the Phase Three substrate was humming. His hand was warm. And somewhere below the chip, below the guilt, a seven-year-old boy was listening to his mother sing.
 
 "Thank you," Alexander said.
 
@@ -214,22 +222,22 @@ The chip said: *Insufficient authorization. Access denied.*
 
 His hand said something else.
 
-He felt it happen below his conscious awareness, the Phase Three substrate activating at a depth the surface chip couldn't monitor, pushing a signal through his fingertips into the panel's sensor array. Neither a code nor a number but an electromagnetic pattern that carried the architectural signature of the substrate's designer, Sophia Kessler's own biometric profile, embedded in the neural circuitry she had built, transmitted through the body of a man she had never intended to be standing here.
-
-The panel hesitated. Its security architecture recognized the signature, not as Alexander's clearance but as its maker's fingerprint, arriving through an unauthorized channel, fragmented and indirect. The system couldn't classify it as a valid authorization. But it couldn't classify it as invalid either. The signature was genuine. The delivery method was impossible. And in the gap between genuine and impossible, the panel's architecture defaulted to the only response it had for input from its creator that it couldn't fully parse: *accept.*
+He felt it happen below his conscious awareness: the substrate pushing a signal through his fingertips into the panel's sensor array, a pattern that was neither code nor number. The panel hesitated, a machine encountering input it could neither validate nor reject.
 
 The cell door opened.
 
-Alexander stared at the open door and felt the impossibility of what had just happened settle into his body like cold water. The substrate had used Sophia's own signature to bypass Sophia's own lock. Either she had designed this possibility into the Phase Three architecture, had built the key and the lock and the man who would carry one to the other, or the substrate had done something no one had designed. He didn't know which possibility was worse.
+He did not ask how. Later there would be time to wonder what Sophia had built, and what she had intended, and whether the key had been lying in him all along, waiting for a door. Now there was the door, open, and a clock running.
 
 Alexander stood in the threshold and looked at Mira, who was already standing, who was already watching the door, who had known, through her silence, through her stillness, through whatever channel the dampeners couldn't suppress, that he was coming.
 
-"Twelve days," she said. "I thought I had twelve days."
+"Twelve days," she said. "They told me twelve days. As if it were a courtesy."
 
-"You have three minutes. Maybe less."
+"That was four days ago. And you have three minutes. Maybe less."
 
 Mira looked at him. The look was not gratitude. The look was calculation, the same strategic assessment she had given him in the settlement, the same weighing of threat and utility. But beneath the calculation, something else. Acknowledgment. She was seeing him, not the operative, not the cover, not the data, and what she saw was useful enough to walk through a door with.
 
 "Then stop standing there," she said.
 
-They moved.
+"Thirteen minutes. The dampener cycle resets at three. When it drops, we move."
+
+Mira looked at the corridor, the cameras, the open door, recalculating her world around a man who had brought a schedule to a rescue. Then she stepped back into the shadow of the cell, and they waited.

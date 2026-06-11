@@ -30,7 +30,7 @@ Twelve years of Empire service. Not naive or reluctant — a true believer who h
 **Role:** Resistance leader. Strategist, survivor, weapon.
 
 ### Background
-Born in a community descended from West African, Chinese, and indigenous American traditions of embodied knowledge. Grandmother was a keeper of Nsibidi script and tonal communication. The Empire destroyed her home community when she was sixteen — Mira survived because she was away, studying with a logographic preservation cell.
+Born in a community descended from West African (Igbo/Nsibidi) and Chinese traditions of embodied knowledge, later rooted on the Anatolian coast. Grandmother was a keeper of Nsibidi script and tonal communication; she survived the destruction of the community but died afterward in a harmonization center, her mind incompatible with the chip. The Empire destroyed Mira's home community when she was sixteen — Mira survived because she was away, studying with a logographic preservation cell, and returned to stand in the ash.
 
 At the story's opening: leads a cell preserving non-phonetic consciousness practices. Developing a counter-frequency that could exploit the chip's architecture. Bears physical scars from Empire encounters and psychological scars manifesting as rigid certainty.
 
@@ -66,7 +66,7 @@ Speaks seven languages, has studied dozens of writing systems. Understands what 
 
 ### Key Relationships
 - **Alexander:** She recruited him. Saw her own grief in his hollow eyes. She is mother figure, mentor, and the woman who erased his actual mother. Their Chapter 15 conversation is the ideological center of the novel.
-- **Naomi (deceased):** Her daughter's death is the engine of everything. Naomi would be twenty-seven. Every chip installed is, in Sophia's mind, a child saved.
+- **Naomi (deceased):** Her daughter's death is the engine of everything. Naomi would be thirty-five. Every chip installed is, in Sophia's mind, a child saved.
 - **The Empire:** She built the machine, but the machine has grown beyond her. Convergence is partly her vision, partly the system's momentum.
 
 ---

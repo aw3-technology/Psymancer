@@ -4,6 +4,8 @@ Alexander had planned to leave that night.
 
 The extraction protocol was clean: a midnight departure through the eastern approach (unmonitored, as his own report had documented), a six-kilometer descent to the village, a bus to Antalya, and a flight back to Zurich. He had transmitted his final intelligence report two days ago, comprehensive, detailed, sufficient for tactical planning. His mission was complete.
 
+It was also the thirteenth day. *You have two weeks to be whoever you are. After that, I'll know.* Mira's deadline came due tomorrow, and Alexander did not intend to be present for the knowing. The one piece of tactical scheduling in his career that a resistance leader had dictated, and he was keeping to it.
+
 He had packed his bag. He had queued the cover story: Marek Horak, moving on, the restless seeker drifting to his next mirage. The chip had pre-composed his farewell: warm but unattached, the right balance of gratitude and distance. Professional.
 
 Then Dara found him.
@@ -26,7 +28,7 @@ My hands should see it. The phrase bypassed the chip's parsing entirely.
 
 "One more day."
 
-She left. Alexander sat on the cot and looked at his packed bag and felt the chip running a risk assessment: *Delay of departure by 24 hours. Risk: minimal. Community unaware of operative status. Extraction route remains viable. No scheduled tactical action in the operational area for—*
+She left. Alexander sat on the cot and looked at his packed bag and felt the chip running a risk assessment: *Delay of departure by 24 hours. Risk: moderate. Subject Adaeze's stated assessment window expires within the delay period. Community unaware of operative status. Extraction route remains viable. No scheduled tactical action in the operational area for—*
 
 The chip paused. A data gap. No scheduled tactical action; that was based on the information Alexander had access to. But he was a field operative, not a planner. The tactical schedule was Novak's domain.
 
@@ -74,6 +76,8 @@ The composition integrated Nsibidi forms, dense, ideographic, carrying meaning i
 
 As Dara drew, she hummed. Her voice was thin and high and fierce, and it wove through the community's sustained tone like a bright thread through dark fabric. The sound and the drawing were synchronized, each brush stroke timed to a vocal pulse, and the result was not writing and not music but a third thing, a form of expression that dissolved the categories the chip tried to impose.
 
+Midway through, Alexander recognized something. A passage of characters near the composition's heart: the section she had drawn eleven times, the one that had felt like it was pretending. It was not the version he'd seen in her book. The lines hesitated now. They changed their minds visibly, doubled back, left their deciding in the ink, and the unevenness was not error. It was grain. *The truth has snags,* he had told her, and she had carried the disreputable evidence away at a half-run, and here it was, resolved into the offering of who she was: a passage that hesitated like a living thing. He could not read the characters. He read that. Something in his chest tightened, and the chip did not file it, because the chip was busy failing, and the failing left the feeling whole.
+
 Alexander watched. The chip fought. And in the fighting, gaps opened.
 
 He saw, in flashes, in peripheral glimpses that the chip tried to correct, the composition as something other than ink on sand. In the gaps between the chip's corrections, the characters seemed to rise from the surface, occupying three dimensions, interlocking in a structure that was simultaneously visual and auditory and kinesthetic. Dara was not drawing a flat work. She was building something. A pattern woven from seeing and hearing and feeling simultaneously, a pattern that the chip's phonetic architecture was categorically unable to contain.
@@ -92,11 +96,17 @@ Something in his chest swelled. It was not emotion as the chip defined emotion, 
 
 The ceremony lasted an hour. When Dara placed her brush down and sat back, the community's humming faded into silence, and the silence was not the absence of sound but the presence of something the sound had made room for.
 
-Then the night tore open.
+In that silence, Alexander's chip received a handshake.
+
+*Tactical network synchronization initiated. Operation MED-7-C: active. Asset presence detected in operational zone. Hold position. Do not engage.*
+
+The estimate had said forty-eight to ninety-six hours. Someone had moved the operation up, and the knowledge arrived in him like cold water filling a hull: unit positions populating the overlay, three vectors converging, the eastern approach, his approach, his report, already crawling with advancing markers. Around him, fifty-three people sat in the after-silence of a child's becoming. None of them knew. The one man who knew said nothing.
+
+He told himself there was nothing to say. A minute's warning was not evacuation; a minute's warning was panic, trampling, the same ending with more screaming. The chip endorsed the logic. The logic was sound. It was also a lie, the second one he had recognized in two days, and he sat against the eastern wall and held it and did not move.
 
 ---
 
-Later, Alexander would reconstruct the timeline from his chip's tactical log: 21:47:33, encrypted burst transmission detected on Empire military frequency. 21:47:34, chip network handshake initiated, his Phase Three implant involuntarily syncing with the approaching tactical network. 21:47:35, perimeter alert from the community's tonal warning system, a sound like a bird cry that was not a bird cry. 21:47:38, the first concussion charge detonated at the settlement's northern entrance.
+Later, Alexander would reconstruct the timeline from his chip's tactical log: 21:46:31, tactical network handshake, his Phase Three implant involuntarily syncing with the approaching force. 21:47:35, perimeter alert from the community's tonal warning system, a sound like a bird cry that was not a bird cry. 21:47:38, the first concussion charge detonated at the settlement's northern entrance. Sixty-seven seconds between the handshake and the charge. The log recorded no action taken by the asset during that interval. The log was accurate.
 
 In the moment, there was no timeline. There was only the singing house filling with dust and the sound of the dome cracking and Dara's face turning toward his, her eyes wide, her mouth open, ink still on her fingers.
 
@@ -116,7 +126,7 @@ Alexander stood in the singing house and watched the operation he had enabled un
 
 Soldiers entered through the broken dome. They were efficient and not cruel; the Empire trained its tactical units the same way it trained its intelligence operatives: professional, measured, minimizing unnecessary distress. They administered sedatives to the elders with practiced speed. The tonal communication stuttered and died as each voice was silenced.
 
-Young adults were separated and fitted with temporary compliance chips, small adhesive devices that suppressed non-phonetic neural activity. Alexander watched a young man he'd shared meals with, a carpenter named Adnan who laughed easily and carved toys for the children, go rigid as the compliance chip activated, his eyes emptying of the thing Alexander had spent three weeks learning to see: the aliveness behind the data, the presence no label contained.
+Young adults were separated and fitted with temporary compliance chips, small adhesive devices that suppressed non-phonetic neural activity. Alexander watched a young man he'd shared meals with, a carver named Adnan who laughed easily and made toys for the children, go rigid as the compliance chip activated, his eyes emptying of the thing Alexander had spent three weeks learning to see: the aliveness behind the data, the presence no label contained.
 
 Children were gathered by a specialized unit. The soldiers spoke to them in Empire Standard, their voices chip-modulated for maximum calm authority. "Come with us. Everything will be fine. You're going to a safe place." The children who had been singing an hour ago, who had been part of a living composition, who had carried in their bodies knowledge that the Empire's archives would reduce to data: these children walked obediently toward the transport vehicles because the soldiers' voices were engineered to make obedience feel like safety.
 
@@ -148,6 +158,8 @@ She was fast, twelve years old and terrified and her body knew the settlement th
 
 Alexander's chip tracked her automatically. Yellow marker, moving east at eleven kilometers per hour, trajectory toward unmonitored terrain. The tactical network registered her movement. A soldier in the eastern unit received the data.
 
+The data said: marker, fleeing, intercept. The marker had a field for age, and the field said *under 13, developmental assessment candidate*, and the intercept protocol did not read that field, because intercept protocols were written for markers, and markers did not have childhoods. The network classed the disruptor as non-lethal. The soldier would follow the protocol exactly. No rule would be broken anywhere in the chain; the review board would later confirm that every link had functioned as designed. The design was the failure, and the design had no field for that either.
+
 Alexander ran.
 
 He was faster than Dara, longer legs, chip-enhanced reflexes, the tactical overlay showing him the optimal pursuit path. But he wasn't pursuing. He was trying to reach her before the soldier did, because the chip was feeding him the soldier's data too and the soldier had flagged the fleeing target and was raising a neural disruptor and Alexander knew, from his training, from his years in the field, from the same expertise that had made his intelligence reports so dangerously thorough, that the standard-issue neural disruptor was calibrated for adult neurology. On a child, at close range, the charge would overwhelm the developing neural system. It would be lethal.
@@ -172,7 +184,9 @@ Alexander held Dara and the chip told him: *Subject deceased. Emotional response
 
 He looked at her face. The dust had settled on her skin. Her eyes were still open. They were dark and clear and held nothing, not the fire of the living child, not the emptiness of the harmonized. Just nothing. Just the stopped clock of a life that should have had decades of characters to draw.
 
-Her book had fallen. It lay in the dirt, open to a page covered in her compositions, the preliminary studies for the ceremony piece, each one a small world of interlocking meaning. A soldier's boot was two inches from the page. The soldier moved and the boot came down and Alexander said nothing and the book's spine cracked and the pages bent and the ink was already drying on sand that no one would read.
+Her book had fallen. It lay in the dirt, open to a page covered in her compositions, the preliminary studies for the ceremony piece, each one a small world of interlocking meaning. A soldier's boot was two inches from the page. The soldier moved and the boot came down and Alexander said nothing and the book's spine cracked and the pages bent. He watched the boot and did not move, and he would remember the not-moving.
+
+Later, an archival specialist picked the book up, smoothed the bent pages with gloved and careful hands, and sealed it in a padded container with a catalog number. The Empire preserved everything. The Empire was not cruel. Her soul went into the evidence system with a barcode on it, and Alexander watched that too.
 
 He looked up.
 
@@ -182,9 +196,7 @@ Not at Alexander. At Dara.
 
 Her expression was not the strategist's mask. It was naked and ruined and held the specific desolation of a woman who had raised a child she had not borne, who had braided that child's hair and corrected her brushwork and sat with her through fevers and heard her laugh at things that were not funny and watched her grow into something that made the future seem possible. Mira's mouth was open slightly, and she was making a sound that the soldiers' chips would have classified as nothing, a low, toneless exhalation, barely voiced, but that was, in the community's practice, the sound of a name being returned to the air. A mourning sound. The sound you made when someone who had been part of your breathing was no longer breathing.
 
-Then Mira's eyes found Alexander. She knew. She had always known. From the moment he walked into the settlement, from the first breath, from the first lie, she had known what he was, and she had let him stay because she was a strategist and strategists calculate risk.
-
-She had known, and she had let Dara near him anyway. Because Dara was brave and curious and Mira was a leader who sometimes used the brave and curious as instruments, and this calculus was as terrible as any Alexander had performed in the Empire's service.
+Then Mira's eyes found Alexander, and he read it there. Or put it there; afterward he was never able to separate the two. *She knew. She had always known.* From the moment he walked into the settlement, from the first breath, from the first lie, she had known what he was, and she had let him stay because she was a strategist and strategists calculate risk. She had known, and she had let Dara near him anyway, because Dara was brave and curious and leaders sometimes use the brave and curious as instruments. He built the whole calculus across her ruined face in the time it took the soldiers to turn her away, and it was as terrible as any he had performed in the Empire's service, and he would not know for a long time whether it was hers, or only his guilt, manufacturing a co-conspirator so the weight might be shared.
 
 They looked at each other across the ruins of the settlement, and between them was a dead child and a destroyed community and the knowledge that they were, in their different ways, both responsible.
 
@@ -194,7 +206,7 @@ Alexander stood. He placed Dara's body on the ground with a care that the chip d
 
 He walked through the settlement. The operation was winding down. The transport vehicles were loaded. The community's written materials were being cataloged by archival specialists, the same thorough, respectful process he had supervised in the Carpathians. Padded containers. Careful labeling. Beautiful objects becoming data.
 
-The singing house was empty. Dara's composition was a smear of ink and bootprints on churned sand. The living characters on the walls, the moss and lichen that generations had cultivated into symbols, were dark and still. The building's dome, cracked by the concussion charge, let in the night sky, and stars fell through the gap onto the ruined sand like punctuation for a sentence that would never be completed.
+The singing house was empty. Dara's composition was a smear of ink and bootprints on churned sand. The living characters on the walls, the moss and lichen that generations had cultivated into symbols, were dark and still. The building's dome, cracked by the concussion charge, let in the night sky.
 
 Alexander stood in the center of the singing house and the chip ran its assessment and the assessment was: *Operation successful. 53 individuals processed. Cultural materials secured. One casualty (juvenile, accidental). Mission parameters: fulfilled.*
 
@@ -206,9 +218,9 @@ The chip tried to process them and
 
 something
 
-The prose of Alexander Vasek's mind, the clean efficient narrative that the chip had maintained for twenty-seven years, broke.
+The prose of Alexander Vasek's mind, the clean efficient narrative that the chip had maintained for twenty-four years, broke.
 
-Deeper than a stutter, more total than a processing delay. A break. A fissure. In the space where the chip's next well-formed sentence should have appeared, there was instead a 字, a character, dense and breathing, occupying the space in his thoughts where the word "successful" should have been. The chip tried to translate it. The chip tried to overwrite it. The chip tried to reclassify it as noise, as error, as artifact, as anything other than what it was.
+Deeper than a stutter, more total than a processing delay. A break. A fissure. In the space where the chip's next well-formed sentence should have appeared, there was instead a 字, a character, dense and breathing, occupying the space in his thoughts where the word "successful" should have been. The chip could read it; that was the obscenity. *Zì: character. Written word. Script.* The dictionary entry arrived in a tenth of a second, and the dictionary entry did not cover the thing, the way *yellow marker* had not covered Dara. The character meant *writing itself*, and it would not be written. The chip tried to overwrite it. The chip tried to reclassify it as noise, as error, as artifact, as anything other than what it was.
 
 The character remained.
 

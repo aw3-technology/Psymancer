@@ -1,4 +1,4 @@
-# Chapter 14½: The Keeper
+# Chapter 15: The Keeper
 
 The caves breathed.
 
@@ -16,13 +16,9 @@ The hum rose through her ribs. Through the muscles of her throat, where old scar
 
 Mira let her hands move.
 
-They found the gestures without conscious direction, the curving, interlocking patterns her grandmother had taught her before she could walk, before she had language, before the concept of "before" had any meaning because her body and the practice were the same age. The gestures were not illustration. They were not communication in the way the Empire understood communication: sender, message, receiver, each one separate, each one labeled. The gestures were the practice itself. The way a river doesn't describe flowing. The way fire doesn't explain heat.
+They found the gestures without conscious direction, the curving, interlocking patterns her grandmother had taught her before she could walk, before she had language, before the concept of "before" had any meaning because her body and the practice were the same age. Her right hand traced the Nsibidi character for *keeper*: a vertical line crossed by three horizontal strokes, each stroke bending at its midpoint to cup the vertical line the way a hand cups a candle flame. The character meant: one who holds the practice while the world tries to blow it out. One who carries the fire not because she is unburned but because she has learned to burn at a temperature the wind cannot reach.
 
-Her right hand traced the Nsibidi character for *keeper*: a vertical line crossed by three horizontal strokes, each stroke bending at its midpoint to cup the vertical line the way a hand cups a candle flame. The character meant: one who holds the practice while the world tries to blow it out. One who carries the fire not because she is unburned but because she has learned to burn at a temperature the wind cannot reach.
-
-She held the character in the air. In the archive's dim light, she could almost see it, the afterimage of the gesture, a shape that existed in the space between the hand's movement and the eye's memory. Almost. Her grandmother would have seen it fully. Her grandmother had lived in a world where the space between gesture and perception was not a gap but a medium, thick with meaning, and every movement left a mark in it as clear as ink on paper.
-
-Mira's grandmother had died in a harmonization center, her neural architecture incompatible with the chip's architecture, her mind too alive for the cage. The medical report had used the phrase *catastrophic cognitive dissonance*. What it meant was: they tried to alphabetize the ocean and the ocean refused and the refusal killed her.
+Mira's grandmother had died in a harmonization center. The medical report had used the phrase *catastrophic cognitive dissonance*, and the phrase sat in Mira like a stone she had never finished swallowing.
 
 Mira held the character for *keeper* and felt the old grief move through her like a tide, not the sharp grief of the fresh wound but the tidal grief of the scar, the kind that comes and goes with its own rhythm, sometimes shallow, sometimes deep enough to drown in. She did not suppress it. Suppression was the Empire's gift, its great technology: the chip that turned grief into data, that made the unbearable bearable by making it small. Mira's practice was the opposite: to let the grief be its full size, to sit with the whole of it, and to keep breathing.
 
@@ -44,15 +40,7 @@ The file was thorough. The Empire was always thorough. Twelve years of operation
 
 Mira read the names. The resistance had matched the Empire's catalog numbers to real people, cross-referencing defectors' knowledge, intercepted population transfers, the testimony of survivors who had been processed and spat out the other side with their languages flattened and their songs erased.
 
-Carpathia-South. A Romani singing community. Sixty-three people. The elder with the woven shawl, her name was Ilona, and she had maintained a tonal tradition that traced its lineage through seven generations of women who sang not with their voices but with their bodies, each gesture a note, each note a word in a language that had no written form because writing would have killed it. Ilona had been sedated during the operation. Fitted with a monitoring patch. Transferred to a harmonization center in Budapest, where the chip was installed over three days while she was kept in medically induced unconsciousness. She woke speaking Empire Standard. She woke not knowing she had ever spoken anything else.
-
-Her tradition, seven generations of embodied song, was cataloged in the Empire's archive as *non-standard vocal practice, historical interest only.* Filed. Stored. Dead.
-
-**Operation: AEGEAN-COASTAL. Date: [redacted]. Outcome: Successful. 41 individuals processed. 87 cultural items recovered. Two casualties (resistance during processing; non-lethal force exceeded parameters). Cultural contamination index reduced from 6.8 to 0.0.**
-
-Aegean-Coastal. A community on a Greek island that had maintained a hieroglyphic script derived from Minoan Linear A, one of the world's oldest undeciphered writing systems, kept alive not by scholars but by fishermen and weavers who used the characters in their daily practice, inscribing them on nets, on looms, on the walls of their homes. The two casualties were an old man who had refused processing and had to be physically subdued, the non-lethal force broke three of his ribs, and a young woman who had experienced a seizure during chip installation. Both survived. The community did not.
-
-Mira read the names. She read the ages. She read the brief, clinical descriptions of what each community had been, the languages, the practices, the writing systems, the songs, and the briefer, cleaner descriptions of what they became after Alexander Vasek and his team had finished their work.
+Carpathia-South: a Romani singing community, sixty-three people, an elder named Ilona who had carried seven generations of embodied song and woke from harmonization speaking Empire Standard, not knowing she had ever spoken anything else. Aegean-Coastal: forty-one people and a script descended from Minoan Linear A, kept alive on nets and looms by fishermen and weavers; two casualties; the people survived, the community did not. Operation after operation. The languages, the practices, the songs, each rendered in brief clinical description, and then the briefer, cleaner description of what they became after Alexander Vasek and his team had finished their work.
 
 *Processed.* A word the Empire used the way a meat-processing plant uses it. Taking something alive and turning it into something that keeps longer on a shelf.
 
@@ -148,7 +136,7 @@ Mira watched and the keeper in her, the part that held the practice, that carrie
 
 This was not the chip dreaming. The chip did not dream. The chip processed, and its processing was thorough and empty and left no residue of meaning on the world.
 
-This was the other thing. The thing beneath the chip, beneath the operative, beneath the twelve years of cultural destruction and the twenty-seven years of managed consciousness. The underground river. The seven-year-old boy whose mother sang in a dead language and drew characters on his bedroom wall and was erased, not killed, the Empire did not kill, the Empire *processed*, and the boy had been processed too, and the processing had covered the river but not stopped it, and the river had been running in the dark for twenty years, and the hand on the cave floor was the river's mouth, and what it spoke was
+This was the other thing. The thing beneath the chip, beneath the operative, beneath the twelve years of cultural destruction and the twenty-four years of managed consciousness. The underground river. The seven-year-old boy whose mother sang in a dead language and drew characters on his bedroom wall and was erased, not killed, the Empire did not kill, the Empire *processed*, and the boy had been processed too, and the processing had covered the river but not stopped it, and the river had been running in the dark for twenty-four years, and the hand on the cave floor was the river's mouth, and what it spoke was
 
 Mira leaned closer. The hum.
 
@@ -182,6 +170,6 @@ All of it the same act.
 
 All of it the cost.
 
-She sat until his hand stilled and the archive's light dimmed to its lowest register and the caves breathed their deepest breath, and when she rose, her knees aching from the stone, she left the character on the floor where morning would find it, a name, drawn in the old language, for a man who was learning to hold what could not be held, by a woman who had been holding the unholdable since she was sixteen years old and the Empire came and her grandmother's mind was too alive for the cage they put it in.
+She sat until his hand stilled and the archive's light dimmed to its lowest register and the caves breathed their deepest breath, and when she rose, her knees aching from the stone, she left the character on the floor where morning would find it, a name, drawn in the old language, for a man who was learning to hold what could not be held, by a woman who had been holding the unholdable since she was sixteen years old and the Empire came and put her grandmother's mind in a box it did not fit.
 
 The ink would dry. The character would remain, faint but legible to anyone who knew how to read it, which was no one in the cave except Mira, and the stones, and the artifacts that breathed their long memory, and the hand that had trembled above it in sleep and almost, almost, understood.

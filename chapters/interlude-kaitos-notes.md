@@ -95,6 +95,14 @@ But someone has to carry the question into the network. Fully integrated. Total 
 
 Alexander has offered. He does not know what he is offering. He thinks he is offering sacrifice. He is offering, 変容, transformation. The self that enters the network will not be the self that remains. But remain it will. In the question. In the recursive asking that echoes through eight billion minds.
 
+But legibility. 可読性. The problem I do not say aloud: the network accepts a Phase Three chip the way a lock accepts its key. Accepting is not disrupting. What is legible is processable. What is processable is containable. The system would hold him the way it holds everything: gently. Totally.
+
+The question must arrive in a voice the system cannot parse. A broken voice. I have done the numbers in the only language that has never lied to me, and the numbers say what the numbers say.
+
+I have not told him. If I told him, he would stop becoming the bridge, and the bridge is needed either way: someone must stand at the interface and translate. The carrier and the bridge are two different jobs. He thinks they are one job. Let him think it a while longer. The thinking is what builds the bridge.
+
+[several lines scratched out; beneath the scratching, barely legible: 私だ。It's me.]
+
 She wanted a cage. I wanted a door. He is becoming both.
 
 ---

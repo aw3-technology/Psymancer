@@ -1,4 +1,4 @@
-# Chapter 16: Ghosts
+# Chapter 17: Ghosts
 
 He went to Prague because his body wouldn't let him not go.
 
@@ -36,10 +36,6 @@ A café on the corner served Empire Standard coffee: temperature-optimized, nutr
 
 The district had been beautiful once, in the way that cities are beautiful when they grow organically, building by building, generation by generation, each new structure arguing with the last about what a city should be. Now the argument had been settled. The Empire's residential blocks rose in identical rows, their facades calibrated for optimal light absorption, their windows sized by an algorithm that balanced privacy against surveillance requirements, their balconies (where balconies existed) appointed with the same Empire-approved outdoor furniture, the same standard planters, the same managed view. A park occupied the block's center: green space, regulation-compliant, with benches at algorithmically determined intervals and a playground whose equipment had been designed to develop specific motor competencies in children aged three to twelve.
 
-In the park, an old man sat on a bench and fed pigeons. The pigeons were the only unmanaged things in the park besides the weather, and even the weather was reported to the residents in advance, its variations pre-narrated by the chip so that no one experienced surprise at rain, at wind, at the sudden beauty of light breaking through cloud. The old man's chip would have told him the optimal number of crumbs to distribute for pigeon nutrition, the recommended duration for his park visit, the caloric expenditure of his walk here. He fed the pigeons anyway, with the slow, deliberate movements of someone performing a ritual whose meaning the system had classified as *recreational behavioral pattern, non-harmful* and thereby missed entirely.
-
-Through a ground-floor window, a family sat at dinner. A child of perhaps four lifted a spoon at the wrong angle, and Alexander watched the micro-correction happen: the child's hand adjusting mid-motion, the grip shifting to the chip-optimized position, the bite arriving at the mouth with calibrated precision. The correction was invisible to the parents because their chips performed the same corrections on their own bodies a thousand times a day. No one noticed. No one needed to. The chip was raising the child the way it raised everyone: silently, from inside, shaping the body's habits without ever announcing that the shaping was occurring.
-
 On the sidewalk, a man walked a small dog. The dog moved in chaotic lurches, sniffing, doubling back, pulling sideways toward a scent, and the man's chip converted his irritation into what the system classified as "productive patience," a managed state that felt like equanimity but was in fact the neurochemical suppression of frustration. The dog was the only unchipped thing on the street. Its movements were the only unpredicted motion in the entire block: organic, purposeless, irreducibly animal. The man's face showed mild, managed pleasantness. The dog's face showed whatever dogs feel, which is to say: everything, without mediation.
 
 Lenka Vasek's apartment was on the fourth floor. Number 4C. Alexander climbed the stairs instead of taking the elevator; the elevator's biometric scanner would log him, stairs were just stairs. Each landing was identical: the same lighting, the same Empire-white walls, the same potted plant (synthetic, maintenance-free, photosynthetically inert). On the third-floor landing, someone had taped a note to the wall beside their door: *Please do not leave shoes in the corridor. —Mgmt.* The note was printed in Empire Standard, perfectly formatted. But at the bottom, in handwriting so small Alexander almost missed it, someone had added a single word in Czech: *Prosím.* Please. The old word, the unnecessary word, the word the chip's efficiency protocols had no use for, still clinging to the wall like a weed in concrete.
@@ -58,7 +54,7 @@ Alexander looked at his mother and saw the data and saw, beneath the data, in th
 
 "How efficient of you to use it for a visit. Please come in. I was just making tea."
 
-He came in. The apartment was as he remembered it, or rather, as the chip remembered it, because his own memories of this space were filtered through twenty-seven years of chip-mediated perception. Small. Tidy. Every object in a location that optimized the apartment's spatial efficiency. Bookshelves lined one wall, filled with Empire-approved texts: technical manuals, optimized literature, the standardized curriculum. No hand-bound volumes. No carved symbols. No woven textiles with logographic patterns.
+He came in. The apartment was as he remembered it, or rather, as the chip remembered it, because his own memories of this space were filtered through twenty-four years of chip-mediated perception. Small. Tidy. Every object in a location that optimized the apartment's spatial efficiency. Bookshelves lined one wall, filled with Empire-approved texts: technical manuals, optimized literature, the standardized curriculum. No hand-bound volumes. No carved symbols. No woven textiles with logographic patterns.
 
 But the apartment was not entirely the chip's. Alexander's Phase Three perception, trained now to see through the architecture's surface, detected traces. A window box with herbs, not the Empire's approved nutritional supplements but culinary herbs, rosemary and thyme, plants whose purpose was flavour rather than function. The chip would classify this as *recreational horticulture, within approved parameters.* Alexander's body classified it as his mother's hands in soil. As the smell of roasting chicken on Sunday afternoons, before the chip decided what Sunday meant. As the persistence of a woman's habits in a system designed to replace habit with optimization.
 
@@ -144,7 +140,7 @@ Her hand was warm. Small. The bones were fine, the grip gentle, the skin soft fr
 
 He sang the whole song. Not hummed but sang. His voice was untrained and raw and the chip fought every note and the notes came anyway, from the underground river, from the body's cathedral, from the place where a seven-year-old boy had been held and sung to and told without words that the world was wider than any alphabet could contain.
 
-The song lasted three minutes. During those three minutes, Lenka Vasek's face remained perfectly composed and her tear became two tears became three, tracking down her cheeks in precise parallel lines, and her grip on Alexander's hand tightened by increments that her chip should have regulated and didn't.
+The song lasted three minutes. During those three minutes, Lenka Vasek's face remained perfectly composed, and the tear continued its single path, and her grip on Alexander's hand tightened by increments that her chip should have regulated and didn't.
 
 Her chip sent a distress signal. Alexander's Phase Three architecture detected it, a burst transmission on the medical emergency frequency, flagging "anomalous emotional response, possible harmonization degradation." The signal would reach the local medical response unit. Response time: four minutes.
 
@@ -152,15 +148,13 @@ Alexander had four minutes.
 
 He kept singing. He looked at his mother's face and he saw the mask and he saw, beneath the mask, the landscape of a life that had been paved over but not erased. The rivers were still there. Running underground. Remembering.
 
-"Mom," he said, between the song's phrases. "I know you're in there."
+"Mom," he said, between the song's phrases.
 
-Her face didn't change. Her tears continued. Her hand gripped his.
-
-"You taught me that words could live in the body. That writing was breath. That the space between sounds was where meaning lived. The Empire took that from you. They told me it was a kindness. Dad told me it was a kindness."
+Her face didn't change. Her tear continued. Her hand gripped his.
 
 He was crying now too. The chip was, the chip was silent. Not processing. Not categorizing. Not managing his emotional output into acceptable parameters. Silent. As if the machine, confronted with the thing it had been built to contain, had simply stepped back.
 
-"I believed them," he said. "For twenty-seven years. I believed the cage was a kindness and I built more cages and I put people in them and I called it progress and I was wrong. I was wrong and I am sorry and I —"
+"I believed them," he said. "I believed it was a kindness, and I —"
 
 The sentence broke.
 
@@ -240,9 +234,7 @@ There was no tonal variation. No breath between the words. No pause where meanin
 
 Their voices were perfect and dead.
 
-One child, near the window, was not singing. A girl, seven or eight, her mouth closed while the others' moved. Her chip would be correcting her, nudging her toward participation, generating the mild neurochemical discomfort that the system used to encourage compliance in young subjects. But the girl sat with her mouth closed and her eyes open and she was looking, not at the screen, not at the lyrics, but at the window. At the street. At the evening light that fell across the glass in shapes no algorithm had planned. Her teacher touched her shoulder, a managed gesture of encouragement, and the girl opened her mouth and joined the song and her voice was technically perfect and something in the way she held her head, tilted, slightly, toward the window, toward the light, toward whatever she had been seeing before the system brought her back, reminded Alexander of a twelve-year-old girl who had once drawn characters in the sand of a Mediterranean settlement and whose composition, her teacher had said, was perfect.
-
-Not the same girl. Not the same loss. But the same architecture, performing the same reduction, in a different city, on a different child, with the same measured kindness that was the system's most devastating weapon.
+One child, near the window, was not singing. A girl, seven or eight, her mouth closed while the others' moved. Her chip would be correcting her, nudging her toward participation, generating the mild neurochemical discomfort that the system used to encourage compliance in young subjects. But the girl sat with her mouth closed and her eyes open and she was looking, not at the screen, not at the lyrics, but at the window. At the street. At the evening light that fell across the glass in shapes no algorithm had planned. Her teacher touched her shoulder, a managed gesture of encouragement, and the girl opened her mouth and joined the song, and her voice was technically perfect, and her head stayed tilted, slightly, toward the window, toward the light, toward whatever she had been seeing before the system brought her back.
 
 Alexander stood on the Empire's white street, listening to the children's perfect voices. His chip provided the data. His body provided something no data column could contain. For a moment, between the chip's report and his body's response, there was a gap, a silence, a space where neither the machine nor the grief could speak.
 

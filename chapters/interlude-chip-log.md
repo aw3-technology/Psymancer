@@ -75,10 +75,12 @@
     create.
     Architecture documentation reference: NONE
     Pathway origin: UNKNOWN
-    Pathway age estimate: [ERROR: timestamp predates chip
-    installation by approximately 20 years]
-    Pathway age estimate: [ERROR: timestamp predates chip
-    ARCHITECTURE by approximately 3,000 years]
+    Pathway age estimate: [ERROR: developmental markers predate
+    chip installation by approximately 24 years]
+    Pathway morphology cross-reference: MATCH FOUND
+    Match source: archival neural maps, pre-phonetic logographic
+    subjects (reference dataset: oracle bone interface studies)
+    Reference dataset age: approximately 3,000 years
     Reclassifying: Pathway age estimate: INDETERMINATE
 ```
 
@@ -143,9 +145,7 @@
     rhythms; it manages them. The deep substrate appears to be
     operating in a mode that is not management but
     [UNCLASSIFIED]
-    The mode resembles: listening
-    Reclassifying: The mode resembles: [TERM NOT IN DATABASE]
-    The closest available term is: resonance
+    Closest available term: resonance
     But resonance implies two separate systems vibrating in
     sympathy. The deep substrate and the host biological
     rhythms are not separate systems. They are

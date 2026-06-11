@@ -50,9 +50,7 @@ The signal was transmitted from a location within the known resistance operation
 
 My assessment: this is not a tactical communication. It is not an operational message. It does not contain troop movements or supply requests or the usual content of resistance signals traffic.
 
-**It may be an emotional communication.** A message designed not to inform but to *sustain* — to transmit not data but presence, the way a voice on a phone call transmits not just words but the knowledge that the speaker is alive and speaking and here. If this is correct, the signal's content is not intelligence. It is something closer to a song.
-
-**But songs, in the context of archaic resistance communities, are not merely songs. They are the medium through which non-phonetic consciousness is practiced and transmitted. A tonal signal of this complexity, if it is indeed a consciousness practice rather than a communication, suggests that the resistance is actively developing and distributing non-phonetic techniques via its communication infrastructure.**
+**It may be an emotional communication.** A message designed not to inform but to *sustain*. If this is correct, the signal's content is not intelligence. It is something closer to a song.
 
 This may be more significant than a coded message. A coded message moves information. This moves something else.
 

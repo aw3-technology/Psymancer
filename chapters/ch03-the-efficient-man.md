@@ -22,9 +22,7 @@ Istanbul was a chipped city. Everyone moved with the particular fluidity of netw
 
 It was, Alexander reflected, a beautiful way to live.
 
-On a bench nearby, a couple ate lunch together. Their conversation moved in timed intervals, one spoke while the other chewed, alternating with metronomic precision, no overlapping, no interrupting. Their bodies maintained a calibrated distance: close enough for the chip to classify the interaction as "high-quality social bonding," far enough to avoid unnecessary physical contact. They did not touch. They did not need to. The chip had mapped their attachment and confirmed its adequacy. They ate their meals, each portion identical, measured to the gram, and their synchronized contentment was, by every metric the chip could apply, genuine.
-
-A food vendor at the plaza's edge worked with algorithmic consistency. His hands portioned each serving identically, the same weight, the same arrangement, the same modulated smile for each customer. But the meals were not identical: the chip network, cross-referencing each customer's biometric data, adjusted the seasoning of each portion to address micro-nutrient deficiencies specific to that individual. A woman received calcium-enriched flatbread for bone density maintenance. A child's portion contained supplemental iron. The vendor performed these adjustments without conscious awareness; his hands moved, the chip guided, the nutrition was optimized. Each customer tasted satisfaction. The satisfaction was calibrated.
+On a bench nearby, a couple ate lunch in timed intervals, one speaking while the other chewed, never touching, their attachment mapped and confirmed adequate. At the plaza's edge, a food vendor portioned identical servings whose seasoning the network silently adjusted to each customer's micro-nutrient profile; each customer tasted satisfaction, and the satisfaction was calibrated.
 
 Above the plaza, public wellness-affirmation screens cycled phrases in Empire Standard's clean font: *YOU ARE VALUED. YOUR CONTRIBUTION MATTERS. CLARITY IS KINDNESS.* People glanced at them automatically as they passed, a brief upward flicker of the eyes, the chip registering the message, the body continuing its trajectory. No one stopped to read. The screens were not for reading. They were for receiving.
 
@@ -80,7 +78,7 @@ His mother's face appeared on the tablet screen. She looked well. She always loo
 
 "I do. Please remember to maintain your hydration protocol. Mediterranean climates increase fluid loss by twelve to fifteen percent."
 
-He looked at her face on the screen and tried to see the woman who had sung him to sleep. The woman who had drawn symbols on his bedroom wall, not decorations, she'd said, but protections, each one a door to a room in the mind where no one could follow. He'd loved those symbols. He'd loved watching her hand move, the certainty of her gestures, the way she hummed while she drew, as if the sound and the symbol were parts of the same thing. He had been seven. She had been — he didn't know. The chip had no record of her age at the time, only the date of her harmonization, the clinical notation that followed: *Subject responded well to cognitive realignment. Pre-existing non-standard vocalization patterns successfully suppressed. Prognosis: full integration.* He had read the file once, years ago, in Sophia's archive. The language was the language of medicine. The thing it described was the language of murder, committed without a weapon, without a wound, without anything a court could call a crime.
+He looked at her face on the screen and tried to see the woman who had sung him to sleep. The woman who had drawn symbols on his bedroom wall, not decorations, she'd said, but protections, each one a door to a room in the mind where no one could follow. He'd loved those symbols. He'd loved watching her hand move, the certainty of her gestures, the way she hummed while she drew, as if the sound and the symbol were parts of the same thing. He had been seven. She had been — he didn't know. The chip had no record of her age at the time, only the date of her harmonization, the clinical notation that followed: *Subject responded well to cognitive realignment. Pre-existing non-standard vocalization patterns successfully suppressed. Prognosis: full integration.* He had read the file once, years ago, in Sophia's archive. The language was the language of medicine. He had closed the file and agreed with it, agreed with every word, and something in his chest had tightened in a way the chip logged as *unclassified somatic response, transient* and he had not opened the file again.
 
 The woman on the screen smiled pleasantly. Her teeth were perfect. Her eyes were clear and held nothing behind them that the chip didn't authorize.
 
@@ -92,9 +90,9 @@ The woman on the screen smiled pleasantly. Her teeth were perfect. Her eyes were
 
 "Of course. I have a curated playlist that the wellness algorithm updates weekly. Currently it's emphasizing baroque compositions, structured, harmonically predictable, excellent for cognitive maintenance."
 
-"What about other music? Older music? Music from — before."
+"What about other music? Older music?" The chip flagged the trajectory before the sentence finished: *line of inquiry approaches restricted category for harmonized subjects. Communications with harmonization-status citizens are sampled for compliance review. Recommend redirect.* The warning was sensible. The warning was standard. He had given versions of it to junior operatives himself. "Music from — before."
 
-A pause. The chip measured it: 0.7 seconds. Long, for a harmonized subject. A harmonized mind processed queries in 0.2 to 0.4 seconds. This was nearly twice that.
+A pause. The chip measured it: 0.7 seconds. Long, for a harmonized subject. A harmonized mind processed queries in 0.2 to 0.4 seconds. This was nearly twice that. In the pause, her hand rose, touched the base of her throat, and returned to her lap, a gesture that took 1.1 seconds and corresponded to no conversational requirement the chip could identify.
 
 "I'm not sure what you mean by 'before,'" Lenka said. Her voice was perfectly even. "I've always enjoyed baroque music."
 
@@ -104,13 +102,13 @@ Alexander looked at her and felt the chip organizing his emotional response into
 
 They talked for another ten minutes. She asked about his nutrition. He asked about her garden; she maintained a small indoor herb garden, the species selected by an agricultural algorithm for optimal air quality and nutritional supplementation. She described the growth rate of her basil with genuine pleasure. He listened and the chip processed and the conversation was pleasant and efficient and completely empty.
 
-After they disconnected, Alexander sat in the café and stared at the Mediterranean. The tablet's screen had gone dark but he could still see her face in it, the pleasant, managed, well-maintained face that was his mother's face and was not his mother's face, the way a house that has been gutted and rebuilt is still the same house by address and not the same house by any measure that matters. He closed the tablet and put it in his bag and his hands, performing this simple mechanical task, were steady, and the steadiness was the chip's gift and the chip's cage and Alexander did not know this yet, would not know it for months, but his body knew it: the hands were too steady. Grief should make hands shake.
+After they disconnected, Alexander sat in the café and stared at the Mediterranean. The tablet's screen had gone dark but he could still see her face in it, the pleasant, managed, well-maintained face that was his mother's face and was not his mother's face, the way a house that has been gutted and rebuilt is still the same house by address and not the same house by any measure that matters. He closed the tablet and put it in his bag and his hands, performing this simple mechanical task, were steady. Too steady. Grief should make hands shake, and there was no grief, because there was nothing to grieve, because his mother was well, the metrics said so, and his hands were steady, and the chip found all of this satisfactory.
 
 The chip cataloged the view: water temperature approximately sixteen degrees Celsius, wave height 0.3 meters, salinity 38 parts per thousand. The data arrived and organized itself and meant nothing more than what it measured.
 
-He hummed. Just a few notes, almost inaudible, a fragment of melody that he couldn't have named or placed. It wasn't a song he knew. The chip classified it as spontaneous vocalization, non-intentional, likely a minor motor artifact.
+He hummed. Just four notes, almost inaudible: two falling, one rising, the last held a beat too long, sliding off pitch at the end in a way no Empire tuning permitted. It wasn't a song he knew. The chip classified it as spontaneous vocalization, non-intentional, likely a minor motor artifact, and noted, in a sub-entry, a non-standard interval between the third and fourth notes that matched nothing in its tonal libraries.
 
-He stopped after four notes. The chip recommended a brief mindfulness exercise. He did the exercise. The exercise was effective. The vocalization did not recur.
+He stopped after the fourth note, as if the phrase had an architecture and the architecture had a door and the door was where he always stopped. The chip recommended a brief mindfulness exercise. He did the exercise. The exercise was effective. The vocalization did not recur.
 
 On the way back to the pension, he passed through the village's small market. Empire goods alongside local products: standardized packaging next to hand-labeled jars of honey, printed signs next to — he stopped.
 
@@ -120,7 +118,7 @@ His chip processed the visual input. There was a delay, 0.3 seconds, identical t
 
 The chip corrected. The sign was a sign. The characters were paint on wood. The vendor was an old man selling herbs. Everything was as it was.
 
-Alexander blinked and kept walking. Behind him, the old man watched him go with eyes that the chip, had it been looking, might have flagged as "alert, context-atypical."
+Alexander blinked and kept walking.
 
 That night, in the pension, Alexander reviewed his mission parameters and prepared his approach strategy. The community was in the hills, approximately six kilometers east. Satellite imagery showed structures, gardens, some kind of communal area. He would approach tomorrow on foot, using the hiking trails that the local tourism board maintained. A wanderer, looking for something he couldn't name. It wasn't far from the truth.
 

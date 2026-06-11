@@ -1,4 +1,4 @@
-# Chapter 18: Schism
+# Chapter 20: Schism
 
 The resistance broke on the eleventh day before Convergence, and it broke along the oldest line in the history of oppression: the line between those who would pay any price for freedom and those who believed some prices were too high.
 
@@ -18,13 +18,13 @@ He paused. Looked around the room.
 
 "I have a different plan."
 
-He pulled up a schematic on a salvaged display: the Convergence network's physical infrastructure. Twelve facilities on four continents, connected by a satellite relay system. The central hub was in Geneva, Sophia's headquarters, the heart of the network.
+He pulled up a schematic on a salvaged display: the Convergence network's physical infrastructure. Twelve facilities on four continents, connected by a satellite relay system. The central hub was in Geneva, beneath the Palace of Nations — not Kessler's Zurich tower but the network's own heart, the place where the system lived.
 
 "Direct action," Graaf said. "No counter-frequency. No question. An answer. We destroy the physical infrastructure. The twelve facilities. Simultaneously. Without the hardware, Convergence can't activate."
 
 Nkechi spoke from the room's edge. "And the eight billion people whose chips depend on the network for basic cognitive function? What happens when the infrastructure they're neurologically bonded to suddenly ceases to exist?"
 
-"Some will experience disruption. Yes. Neural withdrawal. Disorientation. Some will—" Graaf hesitated. Even he could not say the word easily. "—some will not survive the transition."
+"Some will experience disruption. Yes. Neural withdrawal. Disorientation. Some will—" Graaf hesitated, and in the hesitation, for once, there was no rhetoric. His eyes went, briefly, involuntarily, toward the side chamber where Lena slept: Lena, who had lost her sister's name for thirty seconds, and who had been de-chipped voluntarily, with preparation, with care. "—some will not survive the transition."
 
 "Some. What percentage is 'some,' Graaf? You've done the calculations. You always do the calculations."
 
@@ -58,9 +58,21 @@ The silence after this was a different quality of silence. Mira's face went very
 
 "Then let's be sufficient. Let's destroy the engineering. All of it. And let whatever survives be the beginning."
 
+From the back, Lena spoke. The engineer's voice, flat with the exhaustion of carrying an argument no faction wanted. "I was chipped and I built hospitals. Now I'm free and I can't hold a list. Nobody in this room has ever answered me, and tonight you're voting either to do my injury to eight billion people at once, or to leave them inside the thing I still miss every morning. I don't have a side. I just want one of you to say my name when you count the costs."
+
+Graaf did not say her name. Mira did. "Lena. Her name is in the count. Both plans owe her an answer, and neither has one yet. We vote knowing that."
+
+And there was Alexander. Graaf saved him for the pivot, the way a prosecutor saves the photograph. "Three weeks ago our Phase Three interface disappeared on a supply run and came back without a mark on him. He says Director Kessler took him to a villa, questioned him, and released him. *Released.*" He let the word do its work. "The Director of the Cognitive Unity Division had the resistance's only defector in her hands, and she gave him back. Either he is the finest liar the Empire ever built, or he is exactly what he claims, and what he claims to be is a man whose skull broadcasts to the woman we are marching against. There is no version of him that is safe, and Mira's entire plan runs through his chip." He turned to the room. "The mole hunt never ended. We voted to feed the leak false intelligence and called the feeding a victory. Ask yourselves who has been fed. Where is Bianca?" The name landed like a dropped blade: the Naples contact's daughter, eight years old, vanished into Empire custody since the leak. "Ask his chip."
+
+Alexander had no answer that was not the chip's. He gave none. The silence was entered into evidence.
+
 Graaf addressed the room: "We vote. The counter-frequency, Mira's plan, requires sacrifice. One person enters the network and doesn't come back. It disrupts but doesn't destroy. The chips pause, reboot, continue. The system survives, weakened. The Empire regroups. Convergence is delayed, not prevented. We fight this battle again in a year, five years, ten years."
 
 He straightened. "My plan ends it. The infrastructure is destroyed. The chips fail. Yes, people die. Many people. But the system dies too. And from the ashes, whatever consciousness remains is free. Truly free. Not paused. Not weakened. Free."
+
+Mira answered him. Not with a counter-speech; with the thing the dark had been teaching her.
+
+"You're right," she said, and the room went still, because conceding was not a thing Mira Adaeze did. "Convergence delayed is not Convergence prevented. We will fight this again. In a year. In five. In a generation. That isn't the plan failing, Graaf; that's the shape of the work. There is no last battle against a way of seeing. There is only keeping the question alive long enough for it to become a way of living. You want an ending. Endings are the Empire's product: one language, one answer, history complete. I'm not selling an ending. I'm offering a question that can't be unasked, and a fight our grandchildren will still be fighting — with their minds intact to fight it." She looked around the room. "Anyone who tells you they can finish this with one blow is selling you the Empire's dream with the sides swapped. Count what the blow costs before you cheer it."
 
 The vote was taken. It was not democratic; the resistance had never been democratic, had never pretended to be. It was a fracture line, and people chose which side of the crack to stand on.
 
@@ -68,7 +80,7 @@ Twenty-three with Graaf. Twenty-one with Mira. Three abstaining, their faces gra
 
 Alexander did not vote. He was not trusted enough to vote. He stood at the margin and watched the room split, and the split was not neat; it ran through families, through friendships, through bonds forged in years of shared resistance. Nkechi, who had argued against Graaf, stood with Mira. The woman whose daughter was chipped stood with Graaf, and her husband stood with Mira, and between them was a gap that might never close.
 
-Adnan, the carpenter from the settlement, still bearing the residual effects of the compliance chip, his speech slurred and his hands unsteady, stood with Graaf. He looked at Alexander as he crossed the room, and his eyes were clear even if his tongue was not.
+Adnan, the carver from the settlement, still bearing the residual effects of the compliance chip, his speech slurred and his hands unsteady, stood with Graaf. He looked at Alexander as he crossed the room, and his eyes were clear even if his tongue was not.
 
 "You spent your life destroying communities," he said. "Now you can't even keep this one together."
 
@@ -102,11 +114,17 @@ He left. Alexander watched him walk into the Mediterranean dark and felt the wei
 
 That night, Sophia made her move.
 
-The intelligence came through Kaito's intercepts: the Convergence timeline had been accelerated. Not four weeks from the original announcement. Not three weeks from the current date. Days. Sophia had finally looked past the automated processing layer and examined Alexander's raw telemetry directly; Mira's window of weeks had closed. The false data feed had masked the resistance's operational movements, but it couldn't mask the emotional signatures of the schism itself: forty-seven people arguing, twenty-three walking away, the biometric traces of a group fracturing along fault lines of grief and conviction. Sophia had read the fracture in Alexander's stress hormones, his elevated cortisol, the neural patterns of a man watching allies become enemies. The resistance was halved. The window was open.
+The intelligence came through Kaito's intercepts: the Convergence timeline had been accelerated. Not four weeks from the original announcement. Not three weeks from the current date. Days.
+
+The official traffic gave the Directorate's reasoning: the resistance fractured, twenty-three fighters with strike plans in the wind, the window for clean activation closing. But Alexander, reading the intercepts with an operative's eye for authorship, saw the other hand in it. Sophia had read the schism in his telemetry as it happened — forty-seven people arguing, twenty-three walking away, the biometric fracture of a movement breaking along fault lines of grief and conviction — and she had chosen this moment to compress the clock. Not because the resistance was weak. Because her experiment needed a deadline. A question that can be deferred indefinitely is never answered; a question with six days on it answers itself or dies. He recognized the method. It was how she had taught him to run assets: give the source a closing window, and watch what they become inside it.
 
 Convergence would activate in six days.
 
-Mira received the news standing in the archive, surrounded by the artifacts she was fighting to keep alive. Her face did something Alexander had never seen it do: it showed fear. Not the strategic assessment of a threat. Fear. The animal response of a body that understands its time is running out.
+There was a second item in Kaito's intercepts, smaller, routed through a regional medical authority, eleven words of administrative language: *Vasek, Lenka. Harmonization review: anomalous affect event. Recalibration scheduled. Priority: routine.* The distress signal from her chip, the four minutes Alexander had spent singing, had worked its way through the system's patient queues and become an appointment. They would open his mother's mind again, find whatever the song had loosened, and tighten it.
+
+Alexander read the eleven words until they stopped being words. Mira read them over his shoulder and said nothing, because *I told you the visit had a price* was true and useless, and she had learned the difference.
+
+Mira received the news of the acceleration standing in the archive, surrounded by the artifacts she was fighting to keep alive. Her face did something Alexander had never seen it do: it showed fear. Not the strategic assessment of a threat. Fear. The animal response of a body that understands its time is running out.
 
 Six days to complete the counter-frequency. Six days to reach the Convergence hub in Geneva. Six days to find someone willing to dissolve into a question that might not be answered.
 
@@ -118,19 +136,19 @@ Alexander looked at the oracle bones in their cases. At the Nsibidi tablets. At 
 
 He looked at Mira. She looked at him.
 
-&nbsp;
+*
 
 The silence between them.
 
-&nbsp;
+*
 
-Not empty. Not the chip's silence, *[ambient noise level: 23 dB, within normal parameters]*, and not the body's silence either. A third silence. The one the outline had promised. The one where neither the clinical voice nor the embodied voice could speak, because what needed to be said existed before either voice was born.
+Not empty. Not the chip's silence, *[ambient noise level: 23 dB, within normal parameters]*, and not the body's silence either. A third silence. The one where neither the clinical voice nor the embodied voice could speak, because what needed to be said existed before either voice was born.
 
-&nbsp;
+*
 
-In the silence: everything they had shown each other. Everything they hadn't said. The mother's song and the grandmother's Nsibidi and the child on the sand and the child with the rabbit and the four hundred and thirty-seven names and the one name, Dara, that neither of them would ever stop carrying.
+In the silence: everything they had shown each other. Everything they hadn't said. The mother's song and the grandmother's Nsibidi and the child on the sand and the child with the rabbit and the one name, Dara, that neither of them would ever stop carrying.
 
-&nbsp;
+*
 
 "I'll do it," Alexander said. "I'll enter the network."
 
@@ -156,7 +174,7 @@ She considered. All of her at once.
 
 They moved that night. Twenty-three people walking through the dark toward a confrontation that would determine whether eight billion minds would be absorbed into a silence that called itself unity, or whether the silence between the words, the breath, the space, the gap where everything that mattered lived, would survive.
 
-Alexander walked with them, his chip humming its double frequency, his hand tracing characters on the dark air, his body carrying a question it was learning to ask.
+Alexander walked with them, his chip humming its double frequency, his body carrying a question it was learning to ask.
 
 Six days. The countdown was a sentence with no period. An equation with no solution.
 
