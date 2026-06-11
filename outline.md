@@ -19,6 +19,8 @@ In a near-future world, the Empire has achieved linguistic unity through neural 
 
 Phonetic/alphabetic systems, while powerful tools of abstraction, have gradually colonized human consciousness — suppressing older, embodied modes of knowing (tonal, logographic, gestural). The novel explores this not through exposition but through prose that itself transforms as the protagonist's consciousness shifts.
 
+**Handling note:** in the text this thesis is the characters' contested belief, not settled science, and the narration must never adjudicate it. The Empire holds it as engineering doctrine; Mira's tradition holds it as cosmology; Nkechi, who builds the counter-frequency anyway, rejects the cosmology outright in favor of a smaller claim ("attention is trainable, and the chip steals attention"). The book's events are compatible with all three readings. Keep the jargon ("phonetic," "logographic") in characters' mouths and Empire documents; the narration should render the experience, not the theory.
+
 ---
 
 ## PART ONE: SIGNAL (Chapters 1–6)

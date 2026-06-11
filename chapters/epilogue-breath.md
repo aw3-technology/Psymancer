@@ -62,11 +62,11 @@ They breathe. The child tolerates it with the long-suffering patience of a seven
 
 Then: "Like this," he says to the child. He picks up a brush and dips it in ink. "The brush touches the paper and you breathe. Not breathe first, then draw. Both. At the same time."
 
-The child watches. She has a chip, most children do, still. But her chip is the modified architecture, the one Sophia's files described and that hands he will never know have been slowly, carefully implementing. The new chip doesn't suppress the old pathways. It maps them. It shows the child both: the phonetic precision of labeled, categorized reality and the embodied wholeness of the pre-phonetic awareness. Two views of the same world, offered simultaneously, the child's own consciousness choosing, moment by moment, breath by breath, how to integrate them.
+The child watches. She has a chip, most children do, still. But her chip is the modified architecture, the one Sophia's files described and that hands he will never know have been slowly, carefully implementing. The new chip doesn't suppress the old pathways. It maps them. It shows the child both: the labeled world and the felt one. Two views, offered simultaneously, the child's own consciousness choosing, moment by moment, breath by breath, how to hold them.
 
 It is not a perfect system. There is no perfect system. The children who grow up with the new architecture will have their own problems, their own cages, their own songs the system can't contain. But they will have the gap. They will have the question. And the question is the beginning of every answer that matters.
 
-Alexander draws. The character that emerges on the paper is not from any single tradition. It incorporates the precision of phonetic structure, clean lines, defined edges, the clarity that the chip provides and that Alexander has learned to value without worshiping. And it incorporates the embodiment of logographic consciousness: curves that follow the breath's rhythm, densities that carry weight the eye can feel, spaces that are not empty but pregnant.
+Alexander draws. The character that emerges on the paper is not from any single tradition. It has clean lines and defined edges, the clarity the chip provides and that Alexander has learned to value without worshiping. And it has the body's part: curves that follow the breath's rhythm, densities that carry weight the eye can feel, spaces that are not empty but pregnant.
 
 It is a hybrid form. A bridge. A scar that has become a feature.
 

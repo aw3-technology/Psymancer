@@ -52,7 +52,7 @@ The clarity. The first morning after the chip was installed, when Alexander was 
 
 The purpose. Twelve years of service. Communities brought into the framework. Writing systems cataloged. Consciousness organized. Alexander standing in the Carpathians with his crisp prose and his steady eyes and believing, genuinely, thoroughly, that he was making the world kinder by making it legible.
 
-The beauty of the network. Eight billion minds, connected, synchronized, the vast humming intelligence of the chip system at full capacity. The feeling of being part of something larger than any individual consciousness. The closest thing to transcendence a phonetic mind could touch.
+The beauty of the network. Eight billion minds, connected, synchronized, the vast humming intelligence of the chip system at full capacity. The feeling of being part of something larger than any individual consciousness. The closest thing to transcendence a managed mind could touch.
 
 And the love. The chip's love, because it was love, or something the chip had built in the shape of love: the constant attentiveness, the management of pain, the steady voice that said *you are functioning optimally* and meant it the way a parent means *you are good.*
 
@@ -166,7 +166,7 @@ And in the permeability, the counter-frequency took shape.
 
 Kaito provided the architecture. His shattered mind, with its simultaneous access to multiple modalities, could see patterns invisible to intact minds, chipped or unchipped. He mapped the Convergence network's processing framework: the specific algorithms that would merge individual chip consciousness into a unified field.
 
-Mira provided the content. Her years of logographic practice, her grandmother's Nsibidi, the community's evolving hybrid forms: these gave her the vocabulary of non-phonetic consciousness, the raw material for a signal opaque to the chip's architecture.
+Mira provided the content. Her years of practice, her grandmother's Nsibidi, the community's evolving hybrid forms: a vocabulary the chip had no channels for, the raw material for a signal opaque to its architecture.
 
 Alexander provided the interface. His Phase Three chip, with its deep substrate touching the old pathways, was the bridge between Kaito's technical knowledge and Mira's embodied practice. Through him, they could test the counter-frequency in real time, watching how the chip responded, where it stuttered, where the gaps opened.
 
@@ -180,11 +180,21 @@ Kaito had reshaped the carrier wave; Mira keyed the tonal sequence; Alexander he
 
 They rebuilt. The tenth test held a quarter second longer.
 
-The work was painful. Each test pushed the chip further, provoked stronger reassertions, opened wider gaps. Alexander experienced the counter-frequency as a physical event: the world splitting along its modality lines, the phonetic and the logographic pulling apart like tectonic plates, and his consciousness caught in the fissure, stretched between modes of being that the chip insisted were incompatible.
+The work was painful. Each test pushed the chip further, provoked stronger reassertions, opened wider gaps. Alexander experienced the counter-frequency as a physical event: the world splitting, the line and the field pulling apart like tectonic plates, and his consciousness caught in the fissure, stretched between two ways of being that the chip insisted were incompatible.
 
-But each time, the gap stayed open a little longer. And each time, in the gap, Alexander could feel something, not the logographic mode exactly, and not the phonetic mode. A third thing. A space where both existed simultaneously. Where the chip's precision and the body's wisdom occupied the same moment without one suppressing the other.
+But each time, the gap stayed open a little longer. And each time, in the gap, Alexander could feel something that was not the flood and not the line. A third thing. A space where both existed simultaneously, where the chip's precision and the body's wisdom occupied the same moment without one suppressing the other.
 
 It lasted fractions of seconds. It was agonizing. And it was the most real thing Alexander had ever experienced.
+
+It was Nkechi, delivering a recalibrated coil to the archive, who said the thing nobody on the project said. She watched a test from the doorway, arms crossed, and gave her verdict afterward, walking out with Alexander, in the flat tone of an engineer reviewing someone else's schematic.
+
+"You know I don't believe any of it," she said. "The bones. The old pathways. The mode before the split, three thousand years of suppressed consciousness." She shrugged. "I've run this network's communications for nine years on physics and solder. What I believe is smaller: attention is trainable, the chip steals attention, and your frequency gives some of it back for a few seconds. That's the whole miracle. No cosmology required."
+
+"And the archive? What I felt when I touched the bone?"
+
+"People feel things in cathedrals. That doesn't make the theology true. It makes the architecture good." She handed him the coil. "Don't look so betrayed. I'm building the thing either way. I just build it for my reasons. Mira fights for the old consciousness. I fight for the right to be unsupervised. The frequency doesn't care which of us is right."
+
+She walked off. The chip classified her, accurately, as *mission-aligned.* Alexander carried her smaller story alongside Mira's larger one, and could not find the experiment that would separate them, and noticed that the signal would be the same signal in either telling.
 
 One night, after a session that left him vomiting and bleeding from the nose, Mira told him what Kaito had discovered.
 

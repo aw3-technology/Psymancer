@@ -118,7 +118,7 @@ The system stuttered.
 
 Not one chip. Not one node. The entire network, eight billion minds, connected, synchronized, preparing for Convergence, stuttered. A global hiccup. A moment when the vast phonemic machine encountered something it could not process and, in the not-processing, became aware of its own processing.
 
-Alexander stood at the console. His chip connected to the network, not the surrender of Convergence but a bridge, and the bridge was him, and being the bridge was the thing he had been learning since the singing house: how to hold two architectures in one body and let neither dominate. The Phase Three substrate hummed at 47.3 Hz and the humming was both a frequency and a prayer and the frequency and the prayer were the same vibration measured from different distances.
+Alexander stood at the console. His chip connected to the network, not the surrender of Convergence but a bridge, and the bridge was him, and being the bridge was the thing he had been learning since the singing house: how to hold two architectures in one body and let neither dominate. The Phase Three substrate hummed at 47.3 Hz, and the humming was a frequency, and the humming was a prayer, and he had stopped needing those to be two different sentences.
 
 He felt the stutter. Kaito's consciousness dispersing through the network the way ink disperses through water. The chip tracked the propagation rate and the body felt the grief of it, Kaito dissolving, Kaito becoming the question, and the tracking and the grieving were one perception in a mind that had stopped separating its instruments.
 
@@ -128,7 +128,7 @@ Alexander did not send the counter-frequency. Not as a signal. Not as a weapon. 
 
 He asked the question.
 
-He asked it with both. The chip's precision carried the signal, waveform integrity at 99.7%, propagation vector optimized across eight billion nodes, and the signal was also his mother singing in a dark room, and also Dara's hand drawing a cathedral that contained every building that had ever held the sacred, and also Mira's palm against his face in the kill zone, and also Kaito humming in three languages at once. The data and the song. The measurement and the meaning. Both. At once. One question in two registers that were, at last, one register:
+He asked it with both. The chip's precision carried the signal, waveform integrity at 99.7%, propagation vector optimized across eight billion nodes, and the signal was also his mother singing in a dark room, and also Dara's hand drawing a cathedral that contained every building that had ever held the sacred, and also Mira's palm against his face in the kill zone, and also Kaito humming in three languages at once. The data and the song. One question in two registers that were, at last, one register:
 
 *What are you not seeing?*
 

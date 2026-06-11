@@ -36,7 +36,7 @@ On the fourth night, camped in a limestone gorge in the French Alps, they finali
 
 "Long enough. The network will eventually adapt, but the adaptation takes time; the system has to invent new categories for what Kaito is doing, and inventing takes longer than matching."
 
-Alexander studied the dirt map. His chip overlaid coordinates, distances, force estimates, and the numbers settled into Mira's relational lines the way a skeleton settles into a body, the grid giving the flow its precision, the flow giving the grid its life. He read both at once. Not alternating. Both. The facility was 47 kilometers north and it was also the place where the question would be asked, and both facts occupied the same point on the map, and neither was more true than the other.
+Alexander studied the dirt map. His chip overlaid coordinates, distances, force estimates, and the numbers settled into Mira's relational lines the way a skeleton settles into a body, the grid giving the flow its precision, the flow giving the grid its life. He read both at once. The facility was 47 kilometers north, and it was the place where the question would be asked, and the two facts occupied the same point on the map.
 
 "The inner facility," Alexander said. "Once we're past the perimeter, the hub itself is underground. Three levels. The network core is on the lowest level. Between us and it: automated security, the facility's own chip defense system, and—"
 
@@ -47,6 +47,16 @@ Alexander studied the dirt map. His chip overlaid coordinates, distances, force 
 The plan required three phases. Phase one: approach the facility under Kaito's interference cover. Phase two: breach the outer security. Phase three: reach the network core and introduce the counter-frequency.
 
 Each phase was a gamble. Each gamble depended on the previous one succeeding. The probability chain (the chip calculated this automatically, couldn't help itself) was not encouraging.
+
+"The chip has a number for the whole operation," Alexander said. "Do you want it?"
+
+"No," Mira said.
+
+"It's single-digit."
+
+"I said no."
+
+"For the record, the chip also said no. I overrode it. It would like that noted."
 
 Mira looked at the fighters. At Kaito, whose humming had gone quiet as the altitude strained his damaged lungs. At Alexander, whose chip was still running its probability calculations and whose body was already committed.
 
@@ -68,7 +78,7 @@ Alexander sat beside her. Close. The distance between them had become something 
 
 "Like a song in a cathedral. The architecture does the work."
 
-She looked at him. The firelight (they had risked a small fire in the gorge's shelter) moved across her face, and for a moment Alexander saw her: core temperature 36.8°C and a field of intention the thermal reading couldn't contain, her pulse at 72 beats per minute and each beat carrying a grief as dense and old as the limestone around them. The chip measured and the measurement was accurate and the accuracy was the smallest part of a larger truth and both, the measurement and the truth, were Mira.
+She looked at him. The firelight (they had risked a small fire in the gorge's shelter) moved across her face, and for a moment Alexander saw her: core temperature 36.8°C and a field of intention the thermal reading couldn't contain, her pulse at 72 beats per minute and each beat carrying a grief as dense and old as the limestone around them. The chip measured, and the measurement was accurate, and the accuracy was the smallest part of her.
 
 "You don't have to do this," she said. "Enter the network. Kaito could—"
 

@@ -94,6 +94,8 @@ His father he did not visit. The Regional Director for the Nordic sector had iss
 
 Graaf's war had ended badly. Two facilities damaged, the network rerouting around both within hours; the other ten strikes never launched, intercepted or abandoned as the Empire hardened its hardware against the visible threat. Nine of his twenty-three fighters were captured or dead before the pause came, and when it came, it came from the cave faction he had walked out on, from the elegant plan he had called a delay. He had not rejoined the network. His remnant wanted more: total network collapse, chip removal for everyone, the clean revolution he had always argued for. The last Alexander heard, Graaf was somewhere in the Balkans, building something. Whether it was a movement or a militia depended on who you asked. Pavel was still with him. Nkechi had stayed with the network. Adnan, the carver from the settlement, the man with the compliance chip's residue still twitching in his face, had gone looking for his daughter. Whether he found her was a question Alexander carried without pursuing, the way you carry a stone in your pocket, present, heavy, private.
 
+The second mole, if there had ever been one, was never found. Nkechi ran her quiet audits for months and closed the file unanswered: perhaps the Empire's analysts had simply been good; perhaps someone had walked out with Graaf and kept walking. Alexander, who had spent a career resolving exactly this kind of question, discovered he could live inside an unresolved one. It was, among other things, practice.
+
 Of the six who had held the second level in Geneva, four walked out when the pause came and the garrison never did. Ama was among them. She was on the Gold Coast now, the network said, looking for two children who would be nearly grown, carrying a photograph of her own.
 
 The woman with the gray braids, Dara's grandmother, had died. Not violently. Her body, which had survived the raid and the warehouse and the cave system and the long march, had simply finished. She died in the new settlement, in a room that faced the sea, with Mira's hand on hers. Alexander heard the news from a distance and sat with it and the chip measured his grief response and the measurement was accurate and the grief exceeded the measurement the way the sea exceeds its name.
@@ -131,6 +133,10 @@ Mira received this the way she received all gifts: with suspicion first, and the
 Mira looked at the community below. At the children. At the walls of the new buildings, where characters were being grown, living characters, moss and lichen shaped over months into symbols that were neither Nsibidi nor Chinese nor the community's old hybrid forms but something new. Something that incorporated the chip's architecture into the writing itself, using the chip's own precision to give structure to the embodied expressions the chip had been designed to suppress.
 
 "I'm learning," she said. "Which is harder than fighting. Fighting has a target. Learning has—" She gestured: the sea, the sky, the whole horizon. "Learning has everything."
+
+"You hate it."
+
+"I hate it enormously," Mira said, and the admission carried, for half a second, the ghost of the woman who had lost the honey argument at a stone table, in another life, beside the same sea.
 
 They sat. The silence between them was the silence they had learned to share, not empty, not full, but permeable. A membrane through which meaning moved without needing to be spoken.
 

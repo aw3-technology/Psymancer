@@ -154,6 +154,14 @@ The chip closed the gap. He stumbled.
 
 She ran him through the tunnels for two hours. Not the contemplative practice of the archive; this was brutal, physical, designed to exhaust the chip's processing capacity through sheer sensory overload. She made him hum while climbing. Made him draw characters on the tunnel walls while walking blind. Made him synchronize his breath with his steps with the sound of water that ran somewhere beneath the stone floor. Each time the chip separated the channels, filing the hum as audio, the drawing as motor, the stepping as kinetic, Mira pushed harder, forcing him to hold the synchronization against the chip's corrections until his nose bled and his vision whited and the chip threw errors it couldn't log.
 
+"In the Empire," Alexander said, on his knees, bleeding into the dark, "this curriculum would require eleven consent forms."
+
+"File a complaint."
+
+"I would, but my supervisor reads my mind."
+
+A sound came out of the dark that Mira would later deny had been a laugh. "Run again."
+
 In the brief gaps, he saw the tunnels the way she saw them, not as darkness but as a topology of presence, every surface and current of air legible to a body that had been reading spaces like this since before the first word was ever spoken.
 
 Once, during a gap, he felt a presence in a side passage. His body, his body's older intelligence, the one the training was teaching him to trust, read it immediately: threat. Something crouched in the dark. Something waiting. The reading was total and certain, the kind of knowing that predated every word for "danger," and his legs coiled to run and his hands came up and his breath stopped.
